@@ -1,0 +1,1421 @@
+﻿id_venda,data,cliente,produto,categoria,quantidade,preco_unitario,regiao,canal_venda,desconto
+1,2024-01-26,Yasmin Santos,Monitor 24,Eletronicos,1,799.9,Sul,Loja Fisica,0.05
+2,2024-08-16,Diego Barbosa,Luminaria LED,Casa,1,69.9,Norte,Marketplace,0.05
+3,2025-11-23,Yasmin Almeida,Monitor 24,Eletronicos,1,799.9,Sul,Marketplace,0.0
+4,2025-08-27,Larissa Silva,Teclado Mecanico,Eletronicos,1,249.9,Centro-Oeste,Loja Fisica,0.0
+5,2024-04-05,Felipe Oliveira,Notebook Pro 14,Eletronicos,2,4200.0,Nordeste,Online,0.0
+6,2025-09-08,Lucas Almeida,Webcam HD,Eletronicos,2,174.5,Nordeste,Loja Fisica,0.05
+7,2025-10-27,William Almeida,Mesa Compacta,Moveis,2,662.9,Nordeste,Online,0.2
+8,2024-08-13,Marcos Ferreira,Curso SQL Basico,Cursos,2,129.9,Centro-Oeste,Online,0.1
+9,2024-01-07,Eduarda Barbosa,Garrafa Termica,Casa,3,59.9,Norte,Marketplace,0.0
+10,2024-12-14,Henrique Costa,Curso SQL Basico,Cursos,-1,132.5,Sudeste,Loja Fisica,0.0
+11,2024-12-10,Carla Souza,Mesa Compacta,Moveis,2,649.9,Sul,Marketplace,0.05
+12,2024-04-09,Julia Lima,Livro Python Pratico,Livros,1,79.9,Nordeste,Online,0.0
+13,2024-09-27,Ana Barbosa,Caneca Termica,Livros,5,84.9,Sudeste,Online,0.05
+14,2025-07-03,Carla Pereira,Smartphone X,Eletronicos,2,2899.9,Norte,WhatsApp,0.1
+15,2025-07-19,Isabela Gomes,Teclado Mecanico,Eletrônicos,1,249.9,Sul,Loja Fisica,0.1
+16,2025-01-05,Rafael Oliveira,Caneca Termica,Casa,2,84.9,Nordeste,Marketplace,0.05
+17,2024-02-16,Vanessa Oliveira,Teclado Mecanico,Eletronicos,1,249.9,Centro-Oeste,Online,0.1
+18,2024-03-22,Gabriela Souza,Mochila Executiva,Acessorios,3,159.9,Sudeste,Online,0.1
+19,2024-10-11,Marcos Gomes,Livro Python Pratico,Livros,1,79.9,Sudeste,Loja Fisica,0.05
+20,2024-06-15,Julia Lima,Tenis Runner,Moda,1,299.9,Nordeste,Online,0.05
+21,2025-11-17,Henrique Barbosa,Mesa Compacta,Moveis,1,649.9,Sul,Online,0.0
+22,2025-09-15,Thiago Costa,Teclado Mecanico,Eletronicos,1,249.9,Norte,Online,0.0
+23,2024-09-07,Eduarda Rodrigues,SSD 1TB,Eletronicos,2,459.9,Sudeste,Marketplace,0.1
+24,2024-10-03,Thiago Barbosa,Livro Python Pratico,Livros,3,79.9,Sudeste,Marketplace,0.15
+25,2024-08-12,Vanessa Lima,SSD 1TB,Eletronicos,1,459.9,Nordeste,Online,0.1
+26,2024-08-22,Ana Lima,Mouse Sem Fio,Eletronicos,3,89.9,Sudeste,Online,0.0
+27,2024-10-01,Bruno Oliveira,Livro Python Pratico,Livros,4,79.9,Centro-Oeste,Loja Fisica,0.1
+28,2024-11-18,desconhecido,Planner 2025,Papelaria,8,39.9,Centro-Oeste,Loja Fisica,0.0
+29,2025-02-09,Thiago Rodrigues,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Loja Fisica,0.0
+30,2024-09-28,Diego Oliveira,Headset Gamer,Eletronicos,3,203.9,Nordeste,Online,0.05
+31,2025-07-05,Henrique Barbosa,SSD 1TB,Eletronicos,1,459.9,Sudeste,Marketplace,0.0
+32,2025-03-14,Rafael Pereira,Planner 2025,Papelaria,4,39.9,Sudeste,Loja Fisica,0.0
+33,2024-08-12,Diego Almeida,Tenis Runner,Moda,1,299.9,Nordeste,Online,0.05
+34,2024-04-03,Ana Souza,Tablet Lite,Eletronicos,1,14999.0,Sudeste,Online,0.05
+35,2025-10-04,Eduarda Gomes,Headset Gamer,Eletronicos,2,199.9,Sudeste,WhatsApp,0.0
+36,2025-09-02,Bruno Pereira,Curso SQL Basico,Cursos,1,129.9,Sul,Marketplace,0.0
+37,2025-09-02,Marcos Almeida,Livro Python Pratico,Livros,2,79.9,Sudeste,Loja Fisica,0.0
+38,2025-07-20,Lucas Gomes,Garrafa Termica,Casa,6,59.9,Sudeste,Online,0.0
+39,2025-11-29,PAULA SANTOS,Monitor 24,Eletronicos,3,799.9,Sul,Marketplace,0.05
+40,2024-04-24,Isabela Pereira,Camiseta Dry Fit,Moda,5,49.9,Sudeste,Online,0.0
+41,2025-04-09,Lucas Barbosa,Cadeira Office,Moveis,1,899.9,Nordeste,Loja Fisica,0.3
+42,2025-05-27,Eduarda Almeida,Garrafa Termica,Casa,4,59.9,Nordeste,Online,0.1
+43,2025-10-02,Isabela Gomes,Monitor 24,Eletronicos,3,799.9,Sudeste,Loja Fisica,0.0
+44,2025-09-15,Felipe Costa,Webcam HD,Eletronicos,1,179.9,Nordeste,WhatsApp,0.0
+45,2024-06-14,Paula Almeida,Tenis Runner,Moda,2,299.9,Sudeste,Loja Fisica,0.05
+46,2025-09-05,Joao Rodrigues,Notebook Pro 14,Eletronicos,1,4200.0,Sudeste,Online,0.0
+47,2024-04-24,Julia Santos,Notebook Pro 14,Eletronicos,1,4200.0,Sul,WhatsApp,0.15
+48,2024-02-29,Gabriela Ferreira,Luminaria LED,Casa,1,71.3,Sul,Online,0.2
+49,2024-03-28,Yasmin Rodrigues,Teclado Mecânico,Eletronicos,3,249.9,Centro-Oeste,Online,0.15
+50,2025-06-29,Diego Costa,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,WhatsApp,0.1
+51,2025-07-16,Eduarda Santos,Tablet Lite,Eletronicos,1,1499.9,Sudeste,WhatsApp,0.0
+52,2025-09-13,Larissa Oliveira,Webcam HD,Eletronicos,3,179.9,Sudeste,Loja Fisica,0.1
+53,2025-12-07,Felipe Barbosa,SSD 1TB,Eletronicos,1,459.9,Sul,Marketplace,0.15
+54,2025-02-12,Vanessa Gomes,Mochila Executiva,Acessorios,1,159.9,Sudeste,Marketplace,0.05
+55,2025-03-24,Otavio Rodrigues,Tenis Runner,Moda,2,299.9,Sul,Online,0.0
+56,2024-09-10,Gabriela Souza,Monitor 24,Eletronicos,1,799.9,Norte,Online,0.05
+57,2024-01-22,Rafael Almeida,Camiseta Dry Fit,Moda,1,49.9,Norte,Marketplace,0.0
+58,2025-08-25,Gabriela Silva,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.05
+59,2025-12-25,Thiago Silva,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Loja Fisica,-0.1
+60,2024-03-10,Ana Lima,Luminaria LED,Casa,5,69.9,Sudeste,Online,0.1
+61,2025-06-10,Gabriela Santos,Teclado Mecanico,Eletronicos,1,249.9,Norte,Online,0.3
+62,2024-08-07,Paula Costa,Tablet Lite,Eletronicos,2,1499.9,Sudeste,Online,0.0
+63,2025-08-13,Natalia Oliveira,Planner 2025,Cursos,4,39.9,Sudeste,Online,0.2
+64,2025-02-20,Felipe Souza,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Online,
+65,2025-11-05,Larissa Lima,Monitor 24,Eletronicos,2,775.9,Norte,Online,0.35
+66,2025-02-24,Marcos Barbosa,Curso SQL Básico,Cursos,3,129.9,Sudeste,Online,1.2
+67,2025-11-20,Thiago Gomes,Mouse Sem Fio,Eletronicos,1,89.9,Sudeste,Online,0.05
+68,2024-03-03,Kaique Barbosa,Monitor 24,Eletronicos,1,799.9,Sudeste,Loja Fisica,0.05
+69,2024-04-21,Gabriela Oliveira,Camiseta Dry Fit,Moda,1,49.9,Norte,Loja Fisica,0.0
+70,2025-07-03,Marcos Costa,Mesa Compacta,Moveis,4,649.9,Sudeste,Online,0.05
+71,2024-07-06,Henrique Rodrigues,Curso SQL Basico,Cursos,1,129.9,Sul,Online,0.2
+72,2024-03-18,Marcos Almeida,Luminaria LED,Casa,1,69.9,Norte,Online,0.0
+73,2024-02-21,Thiago Almeida,Monitor 24,Eletronicos,2,775.9,Norte,Online,0.15
+74,2024-04-05,Gabriela Costa,Notebook Pro 14,Eletronicos,2,4200.0,Centro-Oeste,Online,0.1
+75,2025-05-12,Natalia Oliveira,Curso SQL Basico,Cursos,3,129.9,Sudeste,Marketplace,0.0
+76,2024-03-01,Eduarda Pereira,Livro Python Pratico,Livros,2,79.9,Sul,WhatsApp,0.0
+77,2025-02-03,Henrique Rodrigues,Notebook Pro 14,Eletronicos,2,4200.0,Centro-Oeste,WhatsApp,0.15
+78,2025-03-09,William Barbosa,Mochila Executiva,Acessorios,2,159.9,Sudeste,Online,0.15
+79,2025-11-08,William Rodrigues,SSD 1TB,Eletronicos,2,446.1,Centro-Oeste,Marketplace,0.0
+80,2024-07-13,Isabela Oliveira,Headset Gamer,Eletronicos,3,203.9,Nordeste,Online,0.2
+81,2025-08-16,Yasmin Almeida,Mouse Sem Fio,Eletronicos,4,89.9, Sudeste ,Online,0.0
+82,2024-11-17,Ana Silva,Mouse Sem Fio,Eletronicos,5,87.2,Sudeste,Online,0.05
+83,2025-05-03,Otavio Almeida,Planner 2025,Papelaria,2,39.9,Sul,Online,0.0
+84,2024-02-28,Otavio Souza,Cadeira office,Moveis,2,899.9,Sudeste,Online,0.0
+85,2024-03-11,Sabrina Souza,Cadeira Office,Moveis,1,899.9,Sul,Loja Fisica,-0.1
+86,2025-02-17,Carla Ferreira,Luminaria LED,Casa,5,69.9,Sudeste,Online,0.1
+87,2025-08-15,Sabrina Silva,Luminaria LED,Casa,5,69.9,Sudeste,Online,0.0
+88,2024-03-24,Larissa Gomes,Caneca Termica,Casa,2,82.35,Sul,Online,0.05
+89,2025-08-01,Otavio Lima,Planner 2025,Papelaria,1,39.9,Nordeste,Online,0.05
+90,2024-07-28,Vanessa Barbosa,Garrafa Termica,Casa,8,59.9,Sudeste,Online,0.15
+91,2024-09-01,Henrique Pereira,Camiseta Dry Fit,Moda,1,49.9,Sul,Online,0.15
+92,2025-11-18,Thiago Santos,Headset Gamer,Eletronicos,5,199.9,Norte,Loja Fisica,0.2
+93,11-19-2024,Bruno Silva,Smartphone X,Eletronicos,2,2899.9,Sudeste,Online,0.05
+94,2025-09-28,Rafael Souza,Smartphone X,Eletronicos,3,2899.9,Norte,Online,0.2
+95,2025-07-04,Felipe Almeida,,Eletronicos,1,249.9,Sudeste,Online,0.0
+96,2024-05-15,Julia Souza,Garrafa Termica,Casa,3,59.9,Norte,WhatsApp,0.2
+97,2025-01-13,Isabela Costa,Luminaria LED,Casa,1,69.9,Centro-Oeste,Marketplace,0.1
+98,2025-07-10,William Santos,Smartphone X,Eletronicos,3,2899.9,Sul,WhatsApp,0.1
+99,2025-10-31,Otavio Silva,Caneca Termica,Casa,6,84.9,Sul,Online,0.0
+100,2024-11-02,Vanessa Souza,SSD 1TB,Eletronicos,2,459.9,Sul,Online,0.05
+101,2024-09-27,Carla Souza,Headset Gamer,Eletronicos,4,199.9,Sul,Marketplace,0.05
+102,2024-06-08,Henrique Santos,SSD 1TB,Eletrônicos,1,469.1,Norte,Marketplace,0.1
+103,2024-08-03,William Lima,Caneca Termica,Casa,3,84.9,Sudeste,WhatsApp,0.15
+104,2025-12-04,Thiago Santos,Mesa Compacta,Moveis,1,649.9,Nordeste,WhatsApp,0.05
+105,2025-05-15,Henrique Silva,Webcam HD,Eletronicos,2,179.9,Sudeste,Online,0.0
+106,2025-10-11,Larissa Santos,Teclado Mecânico,Eletronicos,1,249.9,Sudeste,Loja Fisica,0.15
+107,2024-01-04,Joao Costa,Mouse Sem Fio,Acessorios,5,89.9,Sudeste,Online,0.0
+108,2024-06-14,Yasmin Rodrigues,Garrafa Termica,Casa,4,59.9,Nordeste,Online,0.0
+109,2025-12-23,Larissa Almeida,SSD 1TB,Eletronicos,2,459.9,Sudeste,Online,0.15
+110,2024-04-24,Bruno Barbosa,Notebook Pro 14,Eletronicos,1,4200.0,Sudeste,Online,0.05
+111,2025-07-12,Ana Lima,Headset Gamer,Eletronicos,4,199.9,Nordeste,WhatsApp,0.05
+112,2025-07-19,Diego Pereira,Planner 2025,Papelaria,8,39.9,Sudeste,Online,0.05
+113,2024-02-12,Isabela Lima,Headset Gamer,Eletronicos,1,199.9,Nordeste,Online,0.0
+114,2025-01-01,Felipe Gomes,Mouse Sem Fio,Eletronicos,1,89.9,Centro-Oeste,Marketplace,0.05
+115,2025-11-13,Carla Lima,Luminaria LED,Casa,1,69.9, Nordeste ,Online,0.0
+116,2025-02-20,Sabrina Barbosa,SSD 1TB,Eletronicos,1,459.9,Nordeste,Online,0.05
+117,2024-08-30,Eduarda Costa,Headset Gamer,Eletronicos,1,199.9,Sudeste,Loja Fisica,0.0
+118,2024-01-26,Eduarda Barbosa,Curso SQL Basico,Cursos,2,126.0,Nordeste,Marketplace,0.15
+119,2025-02-25,Vanessa Barbosa,Camiseta Dry Fit,Moda,5,49.9,Sudeste,Online,0.0
+120,2024-09-30,Eduarda Barbosa,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.05
+121,2025-01-26,Ana Rodrigues,Monitor 24,Eletronicos,1,799.9,Centro-Oeste,Loja Fisica,0.15
+122,2024-07-23,Marcos Lima,Luminaria LED,Casa,1,69.9,Nordeste,Online,0.05
+123,2024-08-21,Gabriela Silva,Mochila Executiva,Acessorios,1,159.9,Sudeste,Online,0.0
+124,2025-02-12,Joao Santos,Mesa Compacta,Móveis,1,649.9,Nordeste,Marketplace,0.05
+125,2024-10-12,Julia Gomes,Teclado Mecanico,Eletronicos,2,249.9,Sudeste,Online,0.05
+126,2025-02-13,Vanessa Almeida,Webcam HD,Eletronicos,2,179.9,Sudeste,Online,0.0
+127,2024-01-29,Carla Santos,Camiseta Dry Fit,Moda,3,49.9,Sudeste,WhatsApp,0.05
+128,2025-08-17,Henrique Silva,Cadeira Office,Móveis,1,899.9,Nordeste,Online,0.0
+129,2025-09-02,Larissa Lima,Monitor 24,Eletronicos,1,799.9,Nordeste,Marketplace,0.0
+130,2025-03-22,Sabrina Almeida,Camiseta Dry Fit,Moda,8,49.9,Nordeste,Online,0.2
+131,2025-01-29,Rafael Oliveira,Monitor 24,Eletronicos,2,799.9,Centro-Oeste,Online,0.1
+132,2024-02-15,William Pereira,Garrafa Termica,Casa,3,59.9,Centro-Oeste,Marketplace,0.0
+133,2025-06-16,Paula Gomes,Notebook PRO 14,Eletronicos,1,4200.0,Sudeste,Online,0.0
+134,2025-01-07,Larissa Souza,Mesa Compacta,Moveis,1,649.9,Sudeste,Online,0.35
+135,2025-09-30,Joao Gomes,Camiseta Dry Fit,Moda,2,49.9,Nordeste,Online,0.2
+136,2024-11-03,Otavio Santos,Monitor 24,Eletronicos,2,799.9,Centro-Oeste,Loja Fisica,0.1
+137,2024-11-30,Kaique Barbosa,Curso SQL Basico,Livros,1,129.9,Sudeste,Online,0.15
+138,2025-07-21,Diego Oliveira,Mochila Executiva,Acessorios,4,159.9,Nordeste,Loja Fisica,0.2
+139,2025-11-11,Kaique Gomes,Curso SQL Basico,Cursos,1,129.9,Sudeste,Loja Física,0.15
+140,2025-09-22,Rafael Santos,Cadeira Office,Moveis,2,899.9,Nordeste,Online,0.0
+141,2025-07-15,Lucas Santos,Livro Python Pratico,Livros,2,79.9,Sudeste,,0.15
+142,2024-08-03,Larissa Ferreira,Mochila Executiva,Acessorios,2,159.9,Sudeste,Online,0.05
+143,2025-11-01,Joao Rodrigues,Caneca Termica,Casa,3,84.9,Nordeste,Marketplace,0.0
+144,2025-03-28,Vanessa Oliveira,Smartphone X,Eletronicos,3,2899.9,Sudeste,Online,0.2
+145,2025-04-29,Yasmin Costa,Webcam HD,Eletronicos,1,179.9,Nordeste,Marketplace,0.05
+146,2024-10-17,Otavio Gomes,Teclado Mecanico,Eletronicos,3,249.9,Sudeste,Online,0.0
+147,2024-12-09,Bruno Oliveira,Caneca Termica,Casa,1,84.9,Sudeste,Marketplace,0.15
+148,2024-08-18,Felipe Costa,Mochila Executiva,Acessorios,2,159.9,Nordeste,Marketplace,0.0
+149,2024-02-17,Gabriela Rodrigues,Notebook Pro 14,Eletronicos,2,4200.0,Nordeste,Online,0.1
+150,2024-03-15,Marcos Pereira,Caneca Térmica,Casa,4,84.9,Sudeste,Online,0.0
+151,18/07/2024,William Barbosa,Planner 2025,Papelaria,3,39.9,Sudeste,Online,0.2
+152,2025-05-21,Kaique Oliveira,Livro Python Pratico,Livros,2,79.9,Sudeste,Loja Fisica,0.0
+153,2025-11-02,William Silva,Headset Gamer,Eletronicos,4,199.9,Sudeste,Loja Fisica,0.15
+154,2025-03-11,Gabriela Costa,Monitor 24,Eletronicos,1,799.9,Sudeste,Loja Fisica,0.0
+155,2025-04-20,Ana Almeida,Webcam HD,Eletronicos,4,183.5,Sul,Online,0.0
+156,2024-05-04,Marcos Costa,Luminaria LED,Casa,2,69.9,Nordeste,WhatsApp,0.15
+157,2025-11-14,Otavio Almeida,Smartphone X,Eletronicos,2,2899.9,Sudeste,Online,0.0
+158,2024-11-20,Marcos Ferreira,Caneca Termica,Casa,2,84.9,Sudeste,Loja Fisica,0.15
+159,2025-03-12,Paula Rodrigues,Webcam HD,Eletronicos,1,179.9,,Online,0.0
+160,2025-05-01,Marcos Santos,Cadeira Office,Moveis,1,899.9,Nordeste,Loja Fisica,0.0
+161,2025-10-14,Henrique Almeida,Luminaria LED,Casa,1,69.9,Sudeste,Loja Fisica,0.0
+162,2025-10-03,Gabriela Santos,Tablet Lite,Eletronicos,1,1499.9,Sul,Online,0.0
+163,2024-03-20,William Santos,Smartphone X,Eletrônicos,5,2899.9,Sudeste,Loja Fisica,0.0
+164,2024-10-05,Joao Lima,Luminaria LED,Casa,1,67.8,Sul,Online,0.0
+165,2024-03-23,Diego Costa,SSD 1TB,Eletronicos,1,459.9,Sudeste,Online,0.1
+166,2025-01-27,William Costa,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.05
+167,2024-03-06,Larissa Pereira,Mesa Compacta,Moveis,1,649.9,Sul,WhatsApp,0.0
+168,2025-07-09,Marcos Pereira,Camiseta Dry Fit,Moda,2,49.9,Norte,Online,0.1
+169,2024-07-30,Larissa Pereira,Mouse Sem Fio,Eletronicos,1,89.9,Nordeste,Loja Fisica,0.0
+170,2025-12-13,Lucas Ferreira,Planner 2025,Papelaria,1,39.9,Sudeste,Online,0.0
+171,2025-05-03,Lucas Lima,Livro Python Pratico,Livros,2,79.9,Sul,Marketplace,0.0
+172,2025-02-03,,Mochila Executiva,Acessorios,1,159.9,Centro-Oeste,Marketplace,0.0
+173,2025-09-09,Gabriela Rodrigues,SSD 1TB,Eletronicos,1,459.9,Norte,Online,0.05
+174,2024-10-06,Larissa Rodrigues,Luminaria LED,Casa,3,69.9,Sul,Online,0.0
+175,2025-02-02,Joao Gomes,Notebook PRO 14,Eletronicos,2,4200.0,Centro-Oeste,Loja Fisica,0.0
+176,2024-06-18,MARCOS COSTA,Livro Python Pratico,Livros,1,79.9,Centro-Oeste,WhatsApp,-0.1
+177,2025-06-30,Lucas Pereira,Caneca Termica,Casa,3,82.35,Sul,Marketplace,0.0
+178,2025-07-31,Vanessa Silva,Planner 2025,Papelaria,3,39.9,Sudeste,Online,0.0
+179,2025-10-20,Larissa Costa,Teclado Mecanico,Eletronicos,5,242.4,Sudeste,Online,0.0
+180,2024-07-05,Ana Santos,Smartphone X,Eletronicos,3,2899.9,Nordeste,Loja Fisica,0.0
+181,2024-12-01,Felipe Rodrigues,Livro Python Pratico,Livros,2,79.9,Sul,Online,0.0
+182,2024-12-11,Kaique Santos,Camiseta Dry Fit,Moda,5,49.9,Sudeste,Loja Fisica,0.1
+183,2024-09-15,Bruno Rodrigues,Curso SQL Basico,Cursos,3,126.0,Sudeste,Online,0.05
+184,2025-07-06,Ana Lima,Notebook Pro 14,Eletronicos,1,4200.0,Sudeste,Online,0.05
+185,2025-10-27,Bruno Gomes,Luminaria LED,Casa,1,69.9,Centro-Oeste,Online,0.1
+186,2024-02-01,Gabriela Oliveira,Mouse Sem Fio,Eletronicos,3,89.9,Sudeste,WhatsApp,0.1
+187,2025-09-28,Diego Oliveira,Notebook Pro 14,Eletronicos,1,4200.0,Centro-Oeste,Loja Fisica,0.0
+188,2025-04-29,Vanessa Souza,Headset Gamer,Eletronicos,2,193.9,Centro-Oeste,Marketplace,0.0
+189,2024-08-11,Marcos Barbosa,Planner 2025,Papelaria,3,39.9,Sudeste,Online,0.0
+190,12/01/2025,Eduarda Ferreira,Garrafa Termica,Casa,4,59.9,Centro-Oeste,Loja Fisica,0.0
+191,2024-04-27,Eduarda Santos,Caneca Termica,Casa,1,84.9,Sul,Online,0.0
+192,2025-08-15,Lucas Santos,,Eletronicos,3,799.9,Sudeste,Marketplace,0.1
+193,2025-11-24,Kaique Pereira,Planner 2025,Papelaria,1,39.9,Sudeste,Online,0.2
+194,2024-03-18,Rafael Barbosa,Mesa Compacta,Moveis,1,649.9,Sudeste,WhatsApp,0.0
+195,2024/04/14,William Santos,Luminaria LED,Casa,3,69.9,Norte,Loja Fisica,0.0
+196,2024-05-03,Rafael Silva,Caneca Térmica,Casa,6,84.9,Sudeste,Marketplace,0.15
+197,2025-06-29,Larissa Gomes,Tenis Runner,Moda,2,299.9,Norte,Loja Fisica,0.0
+198,2024-03-11,Otavio Gomes,Tenis Runner,Moda,1,290.9,Sudeste,Online,0.1
+199,2024-01-13,Larissa Rodrigues,Camiseta Dry Fit,Moda,3,49.9,Sudeste,Online,0.05
+200,2025-03-19,Julia Gomes,Monitor 24,Eletronicos,2,775.9,Nordeste,Online,0.15
+201,2025-12-25,Diego Pereira,Smartphone X,Eletronicos,3,2957.9,Sudeste,WhatsApp,0.1
+202,2025-06-18,Thiago Santos,Cadeira Office,Moveis,1,899.9,Sudeste,Online,0.05
+203,2025-07-05,Natalia Rodrigues,Caneca Térmica,Casa,8,84.9,Sudeste,Online,0.0
+204,2025-08-29,Henrique Lima,Curso SQL Basico,Cursos,1,129.9,Nordeste,Online,0.0
+205,2024-03-29,Henrique Rodrigues,Luminaria LED,Casa,1,69.9,Norte,Online,0.2
+206,2025-04-20,Rafael Ferreira,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.2
+207,2024-12-10,Lucas Rodrigues,Livro Python Pratico,Livros,1,79.9,Sudeste,Marketplace,0.2
+208,2024-07-05,Natalia Oliveira,Camiseta Dry Fit,Moda,1,49.9,Sul,Online,0.2
+209,2024-09-21,Joao Santos,Tenis Runner,Moda,2,299.9,Sudeste,Online,0.0
+210,2025-12-19,Henrique Almeida,Caneca Termica,Casa,4,849.0,Sudeste,Online,0.2
+211,2025-06-13,Felipe Souza,Notebook Pro 14,Eletronicos,4,4200.0,Sul,Online,0.0
+212,2025-02-20,Natalia Almeida,Luminaria LED,Casa,2,69.9,Nordeste,Marketplace,0.0
+213,2025-12-08,Natalia Gomes,Luminaria LED,Casa,1,69.9,Sudeste,Loja Fisica,0.0
+214,2025-04-03,Lucas Souza,Tablet Lite,Eletronicos,1,1499.9,Nordeste,Marketplace,0.2
+215,2024-08-14,Kaique Barbosa,Mochila Executiva,Acessorios,2,159.9,Sudeste,Loja Fisica,0.0
+216,2024-11-09,Vanessa Ferreira,Luminaria LED,Casa,1,69.9,Centro-Oeste,Loja Fisica,0.05
+217,2025-04-29,Paula Almeida,Tenis Runner,Moda,1,299.9,Sudeste,Online,0.15
+218,2025-03-11,Yasmin Almeida,Tenis Runner,Moda,1,299.9,Sudeste,Marketplace,0.0
+219,2024-12-26,William Rodrigues,Camiseta Dry Fit,Moda,2,49.9,Sul,Marketplace,0.1
+220,2024-11-09,Henrique Oliveira,Garrafa Termica,Casa,4,59.9,Sul,Loja Fisica,0.1
+221,2024-07-16,Joao Souza,Monitor 24,Eletronicos,2,775.9,Nordeste,Marketplace,0.15
+222,2025-12-07,Eduarda Oliveira,SSD 1TB,Eletronicos,2,459.9,Nordeste,Online,0.1
+223,2025-05-10,Henrique Barbosa,Mesa Compacta,Moveis,2,649.9,Sul,Loja Fisica,0.0
+224,2025-06-21,Sabrina Santos,Planner 2025,Papelaria,8,39.9,Sudeste,Online,0.05
+225,2024-07-17,Isabela Oliveira,Monitor 24,Eletronicos,2,815.9,Nordeste,Marketplace,0.05
+226,2024-07-02,Isabela Silva,Tenis Runner,Moda,1,299.9,Sudeste,WhatsApp,0.0
+227,2024-05-09,Henrique Silva,SSD 1TB,Eletronicos,2,446.1,Norte,Online,0.1
+228,2025-07-20,Isabela Barbosa,Mouse Sem Fio,Eletronicos,2,91.7,Sudeste,Online,0.15
+229,2025-10-15,Natalia Souza,Headset Gamer,Eletrônicos,4,193.9,Sudeste,Online,
+230,2025-08-10,Isabela Rodrigues,Notebook PRO 14,Eletronicos,1,4200.0,Centro-Oeste,Loja Fisica,0.1
+231,2025-03-27,Joao Costa,Tablet Lite,Eletronicos,1,1499.9,Centro-Oeste,WhatsApp,0.0
+232,2024-09-15,Natalia Souza,Mouse Sem Fio,Eletronicos,5,89.9,Sudeste,Online,0.0
+233,2025-02-14,Natalia Souza,Teclado Mecanico,Eletronicos,2,249.9,Centro-Oeste,WhatsApp,0.0
+234,2025-10-06,Vanessa Silva,Planner 2025,Papelaria,2,40.7,Sudeste,Online,0.0
+235,2024-06-01,Rafael Santos,Headset Gamer,Eletronicos,1,193.9,Sul,Online,0.0
+236,2024-09-11,Carla Almeida,Teclado Mecânico,Eletronicos,2,254.9,Sudeste,Marketplace,0.05
+237,2025-09-12,Sabrina Ferreira,Curso SQL Basico,Cursos,1,129.9,Sul,Marketplace,0.1
+238,2025-06-19,Kaique Rodrigues,Luminaria LED,Casa,2,69.9,Sudeste,Online,0.0
+239,2024-10-31,Rafael Pereira,Smartphone X,Eletronicos,2,2899.9,Sudeste,Loja Fisica,0.0
+240,2025-08-05,Sabrina Silva,Mochila Executiva,Acessorios,2,155.1,Sudeste,Online,0.05
+241,2024-04-11,Felipe Gomes,Caneca Termica,Casa,2,82.35,Sudeste,Online,0.05
+242,2024-09-27,Vanessa Souza,Mesa Compacta,Moveis,1,649.9,Sudeste,Online,0.05
+243,2024-09-02,Eduarda Almeida,Cadeira Office,Moveis,2,899.9,Sul,Marketplace,0.0
+244,2024-06-09,Lucas Pereira,Teclado Mecanico,Eletronicos,1,249.9,Nordeste,WhatsApp,0.0
+245,2025-12-06,Sabrina Rodrigues,Smartphone X,Eletronicos,2,2899.9,Sudeste,Loja Fisica,0.0
+246,2024-02-03,Gabriela Santos,Mochila Executiva,Acessorios,1,155.1,Nordeste,Online,0.0
+247,2025-12-20,Marcos Souza,Mochila Executiva,Acessorios,1,159.9,Nordeste,Loja Fisica,0.1
+248,2024-09-27,Thiago Ferreira,Luminaria LED,Casa,1,69.9,Nordeste,Online,0.05
+249,2025-03-11,Carla Almeida,Mesa Compacta,Moveis,1,649.9,Sul,Online,0.05
+250,2025-10-25,Diego Santos,Luminaria LED,Casa,3,69.9,Sudeste,Marketplace,0.0
+251,2024-03-14,Ana Costa,Headset Gamer,Eletronicos,1,199.9,Sul,Loja Fisica,0.1
+252,2025-09-01,Yasmin Ferreira,Mochila Executiva,Acessorios,2,155.1,Sudeste,Loja Fisica,0.0
+253,2025-03-25,Carla Rodrigues,Mochila Executiva,Acessorios,1,163.1,Nordeste,Marketplace,0.0
+254,2025-12-17,Kaique Santos,Mochila Executiva,Acessorios,1,159.9,Nordeste,Marketplace,0.1
+255,2025-07-06,Natalia Rodrigues,Webcam HD,Eletronicos,1,183.5,Sudeste,Online,0.2
+256,2025-09-04,,Teclado Mecanico,Eletronicos,2,242.4,Nordeste,Loja Fisica,0.0
+257,2025-09-10,Henrique Silva,Camiseta Dry Fit,Moda,3,49.9,Sul,Loja Fisica,0.1
+258,2024-08-22,Vanessa Ferreira,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,WhatsApp,0.0
+259,2024-01-22,Vanessa Santos,Planner 2025,Papelaria,2,39.9,Sudeste,Loja Fisica,0.15
+260,2024-02-11,Eduarda Rodrigues,Planner 2025,Papelaria,2,39.9,Sudeste,Marketplace,0.0
+261,2025-10-29,Marcos Santos,Webcam HD,Eletronicos,2,179.9,Sudeste,Online,0.1
+262,2025-08-22,Larissa Gomes,Cadeira Office,Móveis,1,899.9,Nordeste,WhatsApp,0.0
+263,2024-04-03,Natalia Lima,Tablet Lite,Eletronicos,1,1499.9,Nordeste,Marketplace,0.0
+264,2024-12-07,Joao Gomes,Curso SQL Basico,Cursos,1,132.5,Sudeste,Online,0.3
+265,2024-06-13,Joao Pereira,Monitor 24,Eletronicos,1,799.9,Sudeste,Online,0.1
+266,2024-10-22,Vanessa Pereira,Tablet Lite,Eletronicos,4,1499.9,Sudeste,Online,0.0
+267,2024-02-07,Marcos Souza,SSD 1TB,Eletronicos,1,459.9,Centro-Oeste,Marketplace,0.0
+268,2024-09-15,Joao Souza,Camiseta Dry Fit,Moda,4,49.9,Nordeste,Online,0.0
+269,2025-06-10,Lucas Gomes,Livro Python Pratico,Livros,2,79.9,Sudeste,Marketplace,0.1
+270,2025-04-18,Larissa Silva,SSD 1TB,Eletronicos,3,446.1,Nordeste,Online,0.0
+271,06-14-2025,Julia Ferreira,Mesa Compacta,Móveis,1,649.9,Sul,Online,0.0
+272,2025-10-02,Marcos Silva,Tablet Lite,Eletronicos,4,1499.9,Centro-Oeste,Loja Fisica,0.0
+273,2024-09-30,Paula Costa,Mesa Compacta,Moveis,5,649.9,Sul,Online,0.2
+274,2025-03-24,William Rodrigues,Mochila Executiva,Acessorios,3,159.9,Sudeste,Loja Fisica,0.05
+275,2024-01-30,Thiago Ferreira,Monitor 24,Eletronicos,1,799.9,Norte,Online,0.1
+276,2025-12-27,Eduarda Santos,Luminaria LED,Casa,2,69.9,Sul,Online,0.1
+277,2024-01-15,desconhecido,SSD 1TB,Eletronicos,3,459.9,Nordeste,Loja Fisica,0.15
+278,2024-08-18,Carla Rodrigues,Teclado Mecanico,Eletronicos,2,249.9,Sudeste,Loja Fisica,0.15
+279,2025-10-25,Diego Rodrigues,Monitor 24,Eletronicos,1,799.9,Sul,Loja Fisica,0.1
+280,2025-06-05,William Santos,Mochila Executiva,Acessorios,2,159.9,Sudeste,Loja Fisica,0.0
+281,2025-05-09,Natalia Oliveira,Curso SQL Basico,Cursos,5,129.9,Norte,WhatsApp,0.0
+282,2025-07-18,Diego Pereira,Smartphone X,Eletronicos,2,2899.9,Sudeste,Loja Fisica,0.15
+283,2025-09-05,Otavio Barbosa,Mesa Compacta,Moveis,1,649.9,Sudeste,Marketplace,0.1
+284,2024-03-12,Henrique Pereira,Headset Gamer,Eletronicos,1,193.9,Sul,Online,0.05
+285,2025-06-03,Henrique Silva,Camiseta Dry Fit,Moda,2,49.9,Sudeste,Loja Fisica,0.0
+286,2024-11-01,Rafael Ferreira,Mochila Executiva,Acessorios,1,159.9,Sudeste,Online,0.0
+287,2024-06-01,Marcos Almeida,Tablet Lite,Eletronicos,2,1499.9,Sudeste,Online,0.0
+288,2024-12-19,Joao Almeida,Tablet Lite,Eletronicos,1,1499.9,,Online,0.0
+289,2025-01-21,Marcos Lima,SSD 1TB,Eletronicos,1,459.9,Sudeste,Loja Fisica,0.05
+290,2025-12-15,Gabriela Ferreira,Mesa Compacta,Moveis,2,-649.9,Sudeste,WhatsApp,0.0
+291,2024-08-27,Larissa Silva,Livro Python Pratico,Livros,1,79.9,Sudeste,Marketplace,0.0
+292,2025-04-29,William Pereira,Camiseta Dry Fit,Moda,0,49.9,Sudeste,Online,0.35
+293,2025-11-10,Thiago Costa,Livro Python Pratico,Livros,1,79.9,Centro-Oeste,Marketplace,0.05
+294,2024-02-07,Diego Almeida,Tablet Lite,Eletronicos,2,1499.9,Sudeste,Online,0.0
+295,2024-12-05,Carla Rodrigues,Planner 2025,Papelaria,4,39.9,Nordeste,Loja Fisica,0.1
+296,2025-06-22,Marcos Silva,Monitor 24,Eletronicos,1,799.9,Centro-Oeste,WhatsApp,0.05
+297,2025-02-23,Thiago Costa,Headset Gamer,Eletronicos,1,199.9,Norte,Loja Fisica,0.2
+298,2025-04-25,Henrique Lima,Teclado Mecanico,Eletronicos,2,249.9,Sul,Online,0.0
+299,2025-12-10,Kaique Gomes,Caneca Termica,Casa,5,84.9,Sul,Online,0.0
+300,2024-12-02,Vanessa Almeida,Teclado Mecanico,Eletronicos,1,249.9,Sul,Online,0.1
+301,2024-11-20,Thiago Barbosa,Livro Python Pratico,Livros,2,79.9, Sudeste ,Loja Fisica,0.0
+302,2025-07-08,Ana Ferreira,Tablet Lite,Eletronicos,3,1499.9,Nordeste,Online,0.0
+303,2024-08-28,Thiago Gomes,Teclado Mecanico,Eletronicos,2,249.9,Sudeste,Online,0.0
+304,2024-08-20,Yasmin Souza,Mochila Executiva,Acessorios,1,159.9,Sul,Online,0.1
+305,2024-04-10,Thiago Barbosa,Curso SQL Básico,Cursos,0,129.9,Sudeste,Loja Fisica,0.2
+306,2025-03-30,Eduarda Barbosa,Monitor 24,Eletronicos,1,775.9,Sudeste,Loja Fisica,0.0
+307,2024-01-30,Ana Lima,Mochila Executiva,Acessorios,1,159.9,Sul,Online,0.0
+308,2024-10-27,Julia Lima,Mouse Sem Fio,Eletronicos,1,89.9,Sudeste,Online,0.1
+309,2024-05-29,Gabriela Almeida,Curso SQL Basico,Cursos,1,129.9,Sul,Loja Fisica,0.05
+310,2025-08-02,Vanessa Costa,Curso SQL Basico,Cursos,1,129.9,Sudeste,WhatsApp,0.1
+311,2024-06-28,Bruno Ferreira,Cadeira Office,Móveis,2,917.9,Sudeste,Online,0.05
+312,2025-09-26,Vanessa Oliveira,Livro Python Pratico,Livros,1,79.9,Sudeste,Online,0.05
+313,2025-08-20,Diego Oliveira,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Online,0.1
+314,2025-10-15,Henrique Rodrigues,Smartphone X,Eletronicos,4,2957.9,Nordeste,Online,0.0
+315,2025-11-13,Lucas Rodrigues,Garrafa Termica,Casa,3,59.9,Sul,Loja Fisica,0.05
+316,2025-11-24,Paula Costa,Mochila Executiva,Acessorios,2,159.9,Nordeste,Marketplace,0.1
+317,2025-03-28,Julia Ferreira,Teclado Mecanico,Eletronicos,1,249.9,Centro-Oeste,Online,0.0
+318,2025-10-16,Larissa Barbosa,Mochila Executiva,Acessorios,4,159.9,Sudeste,Online,0.0
+319,2025-04-12,Isabela Oliveira,Garrafa Termica,Casa,3,59.9,Sul,Loja Fisica,0.2
+320,2025-05-09,Carla Oliveira,Livro Python Pratico,Livros,1,79.9,Sul,Online,0.1
+321,2025-08-08,,Livro Python Pratico,Livros,3,79.9,Sul,Marketplace,0.1
+322,2025-12-17,Isabela Silva,mochila executiva,Acessorios,1,159.9,Sudeste,Online,0.1
+323,2024-10-08,Lucas Ferreira,Livro Python Pratico,Livros,5,79.9,Sudeste,Marketplace,0.0
+324,2025-09-12,Yasmin Rodrigues,Mouse Sem Fio,Eletronicos,3,89.9,Sudeste,Marketplace,0.0
+325,2024-08-23,Sabrina Lima,Mochila Executiva,Acessorios,1,155.1,Nordeste,Online,0.0
+326,2025-10-13,Felipe Ferreira,Luminaria LED,Casa,1,69.9,Sul,Loja Fisica,0.2
+327,2025-11-25,Yasmin Gomes,Garrafa Termica,Casa,3,59.9,Sudeste,Online,0.05
+328,2025/10/05,Carla Gomes,Headset Gamer,Eletronicos,2,199.9,Sudeste,Online,0.0
+329,2024-11-12,Marcos Silva,Mouse Sem Fio,Eletronicos,1,91.7,Sul,Online,0.1
+330,2025-01-08,Yasmin Costa,Planner 2025,Papelaria,1,39.9,Nordeste,Online,0.0
+331,2024-10-29,Joao Barbosa,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,WhatsApp,0.1
+332,2024-06-28,Felipe Costa,Curso SQL Basico,Cursos,1,129.9,Sudeste,Loja Fisica,0.0
+333,2025-01-09,Otavio Almeida,SSD 1TB,Eletronicos,3,459.9,Sudeste,Online,0.0
+334,2024-06-17,Henrique Rodrigues,Garrafa Termica,Casa,4,59.9,Sudeste,Online,0.0
+335,2024-12-12,Carla Rodrigues,Mochila Executiva,Acessorios,1,159.9,Centro-Oeste,Marketplace,0.0
+336,2024-05-24,Gabriela Gomes,Teclado Mecanico,Eletrônicos,1,249.9,Norte,Online,0.2
+337,2025-07-24,Julia Souza,Livro Python Pratico,Livros,4,79.9,Sudeste,Online,0.05
+338,2024-01-15,Henrique Almeida,Livro Python Pratico,Livros,3,79.9,Nordeste,Loja Fisica,0.0
+339,2025-04-10,Julia Gomes,Monitor 24,Eletronicos,2,799.9,Sudeste,Online,0.0
+340,2025-08-21,Kaique Gomes,Garrafa Termica,Casa,5,59.9,Sul,Marketplace,0.0
+341,2024-04-20,Vanessa Oliveira,Tenis Runner,Moda,1,299.9, Centro-Oeste ,Marketplace,0.0
+342,2024-01-26,Sabrina Almeida,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Loja Fisica,0.15
+343,2025-09-16,Gabriela Gomes,Camiseta Dry Fit,Moda,1,49.9,Sudeste,Online,0.1
+344,2025-10-12,Marcos Barbosa,Teclado Mecanico,Eletronicos,2,242.4,Norte,Online,0.1
+345,2025-10-26,Larissa Souza,mochila executiva,Acessorios,1,159.9,Norte,WhatsApp,0.1
+346,2024-02-16,Ana Santos,Headset Gamer,Eletronicos,1,199.9,Centro-Oeste,Marketplace,0.1
+347,2024-04-28,Carla Oliveira,Tablet Lite,Eletronicos,1,1499.9,Nordeste,Loja Fisica,0.1
+348,2024-05-18,Kaique Rodrigues,SSD 1TB,Eletronicos,1,459.9,Nordeste,WhatsApp,0.0
+349,2025-11-17,Yasmin Barbosa,Tenis Runner,Moda,2,299.9,Sudeste,Online,0.0
+350,2025-03-05,Rafael Barbosa,SSD 1TB,Eletronicos,2,469.1,Sudeste,Loja Fisica,0.0
+351,2025-02-28,Thiago Souza,Headset Gamer,Eletronicos,2,199.9,Centro-Oeste,WhatsApp,0.05
+352,2025-09-22,Larissa Santos,Tablet Lite,Eletronicos,2,1499.9,Sul,Loja Fisica,0.0
+353,2025-12-07,Julia Oliveira,Mouse Sem Fio,Eletronicos,1,89.9,Sudeste,Online,0.0
+354,2025-03-31,Gabriela Lima,Smartphone X,Eletronicos,4,2899.9,Nordeste,Online,0.0
+355,2025-12-03,Julia Almeida,Monitor 24,Eletronicos,2,799.9,Centro-Oeste,Marketplace,0.15
+356,2024-03-03,Kaique Santos,Tenis Runner,Moda,3,299.9,Centro-Oeste,Marketplace,0.05
+357,2024-05-05,Marcos Souza,Mesa Compacta,Móveis,2,649.9,Sudeste,Loja Fisica,0.0
+358,2025-10-19,Thiago Ferreira,Mesa Compacta,Moveis,5,649.9,Sul,Online,0.0
+359,2024-02-21,Joao Oliveira,Notebook Pro 14,Eletronicos,2,4200.0,Sul,Online,0.05
+360,2025-08-01,Felipe Souza,Headset Gamer,Eletronicos,2,199.9,Sudeste,Loja Fisica,0.05
+361,2024-07-31,Rafael Oliveira,SSD 1TB,Eletronicos,1,459.9,Sudeste,Marketplace,0.05
+362,2024-12-02,Diego Ferreira,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.0
+363,2024-10-10,Diego Costa,Notebook Pro 14,Eletronicos,5,4200.0,Nordeste,Online,0.1
+364,2024-09-13,Eduarda Souza,SSD 1TB,Eletronicos,1,459.9,Sudeste,Loja Fisica,0.0
+365,2024-05-14,Lucas Lima,Notebook Pro 14,Eletronicos,2,4074.0,Sudeste,Online,0.1
+366,2025-08-25,Joao Silva,Luminaria LED,Acessorios,2,69.9,Nordeste,WhatsApp,0.0
+367,2024-09-28,Ana Costa,Cadeira Office,Moveis,1,899.9,Centro-Oeste,Marketplace,0.2
+368,2025-06-22,Carla Barbosa,Curso SQL Basico,Cursos,1,129.9,Sudeste,Marketplace,0.05
+369,2025-05-02,Marcos Lima,Teclado Mecanico,Eletronicos,1,249.9, Sudeste ,Online,0.05
+370,2025-08-30,Carla Rodrigues,Webcam HD,Eletronicos,2,179.9,Nordeste,Loja Fisica,0.05
+371,2024-08-14,Sabrina Silva,Webcam HD,Eletronicos,1,179.9,Sudeste,Loja Fisica,0.05
+372,2024-11-04,Marcos Gomes,Webcam HD,Eletronicos,2,179.9,Sul,Online,0.1
+373,2024-03-03,Natalia Pereira,Notebook Pro 14,Eletronicos,1,4200.0,Norte,Online,0.1
+374,2025-12-03,Carla Rodrigues,Curso SQL Basico,Cursos,2,129.9,Sudeste,Online,0.0
+375,2024-03-16,Bruno Lima,Smartphone X,Eletronicos,1,2899.9,Nordeste,Online,-0.1
+376,2024-05-31,Bruno Costa,Caneca Termica,Casa,6,84.9,Sudeste,Online,0.05
+377,2025-10-01,Thiago Ferreira,Garrafa Termica,Casa,2,59.9,Sul,Online,0.05
+378,2025-12-30,Joao Pereira,SSD 1TB,Eletronicos,1,446.1,Sudeste,Online,0.0
+379,2025-06-27,Isabela Rodrigues,Caneca Termica,Casa,2,84.9,Sudeste,Online,0.2
+380,2025-09-11,Larissa Souza,Webcam HD,Eletronicos,1,179.9,Sul,Marketplace,0.0
+381,2025-11-01,Thiago Almeida,Monitor 24,Eletronicos,1,799.9,Sudeste,Online,0.0
+382,2025-03-16,Marcos Oliveira,Mesa Compacta,Moveis,1,649.9,Sudeste,Loja Fisica,0.1
+383,2024-12-13,Marcos Pereira,Curso SQL Basico,Cursos,2,132.5,Nordeste,Marketplace,0.1
+384,2024-04-07,Joao Pereira,Curso SQL Basico,Cursos,1,129.9,Norte,Online,
+385,2025-11-12,Henrique Lima,Camiseta Dry Fit,Moda,1,49.9,Centro-Oeste,Marketplace,0.0
+386,2025-12-04,Natalia Souza,Headset Gamer,Eletronicos,1,199.9,Sudeste,Online,0.0
+387,2024-03-28,Bruno Pereira,Teclado Mecânico,Eletronicos,1,249.9,Sudeste,Online,0.0
+388,2025-01-16,Diego Almeida,Monitor 24,Eletronicos,1,799.9,Sudeste,WhatsApp,0.05
+389,2025-08-23,Paula Almeida,Mouse Sem Fio,Eletronicos,2,89.9,Centro-Oeste,Loja Física,0.2
+390,2025-11-17,Carla Pereira,Camiseta Dry Fit,Moda,1,49.9,Sudeste,Online,0.2
+391,2025-11-12,Larissa Barbosa,Tenis Runner,Moda,1,299.9,Nordeste,Online,0.0
+392,2024-10-21,Sabrina Santos,Mouse Sem Fio,Eletronicos,3,89.9,Sudeste,Online,0.15
+393,2024-04-16,Rafael Almeida,Tenis Runner,Moda,1,299.9,Sudeste,Loja Fisica,0.0
+394,2024-06-07,Vanessa Rodrigues,Mesa Compacta,Moveis,1,649.9,Nordeste,WhatsApp,0.15
+395,2024-04-20,Julia Almeida,Luminaria LED,Casa,1,67.8,Sudeste,Loja Fisica,0.05
+396,2024-04-27,Henrique Ferreira,Tenis Runner,Moda,1,299.9,Sul,Online,0.0
+397,2025-03-15,Paula Ferreira,Luminaria LED,Casa,0,69.9,Centro-Oeste,Online,0.0
+398,2025-11-22,Thiago Almeida,Caneca Termica,Casa,1,84.9,Sul,Marketplace,0.15
+399,2025-09-15,Vanessa Barbosa,Notebook Pro 14,Eletronicos,1,4074.0,Sul,Marketplace,0.0
+400,2024-01-30,Eduarda Santos,Garrafa Termica,Casa,6,59.9,Sudeste,Loja Física,0.0
+401,2024-12-13,Julia Silva,Mochila Executiva,Acessorios,2,159.9,Sudeste,Marketplace,0.2
+402,2024-05-26,Rafael Gomes,Cadeira Office,Moveis,1,899.9,Centro-Oeste,Marketplace,0.05
+403,2024-03-12,Diego Barbosa,Livro Python Pratico,Livros,2,79.9,Sudeste,Marketplace,0.05
+404,2024-04-03,Yasmin Almeida,Notebook Pro 14,Eletronicos,2,4200.0,Sudeste,Online,0.15
+405,2025-01-20,Larissa Rodrigues,Mesa Compacta,Moveis,1,649.9,Sul,Online,0.0
+406,2024-06-10,Julia Santos,Camiseta Dry Fit,Moda,4,49.9,Nordeste,Online,0.05
+407,2025-08-04,Sabrina Souza,Camiseta Dry Fit,Moda,5,50.9,Sudeste,WhatsApp,0.0
+408,2024-06-08,Eduarda Ferreira,Mouse Sem Fio,Eletronicos,4,89.9,Nordeste,Marketplace,0.0
+409,2025-11-21,Bruno Santos,Mouse Sem Fio,Eletronicos,3,87.2,Sudeste,Loja Fisica,0.15
+410,2025-11-08,Larissa Rodrigues,Smartphone X,Eletronicos,2,2899.9,Nordeste,Marketplace,0.1
+411,2025-03-28,Larissa Santos,Caneca Termica,Casa,2,84.9,Sudeste,Marketplace,0.05
+412,2025-06-08,Carla Lima,Mesa Compacta,Moveis,1,649.9,Sul,Online,0.0
+413,2024-04-23,Isabela Gomes,Curso SQL Basico,Cursos,2,129.9,Nordeste,Online,0.0
+414,2025-05-13,Otavio Gomes,Planner 2025,Papelaria,0,39.9,Sudeste,Loja Fisica,0.0
+415,2024-02-16,Gabriela Pereira,Mochila Executiva,Acessorios,1,159.9,Sul,Loja Fisica,0.0
+416,2024-02-26,Lucas Oliveira,Caneca Termica,Casa,4,84.9,Norte,Online,0.15
+417,2024-08-04,Diego Santos,Mochila Executiva,Acessorios,2,159.9,Centro-Oeste,Loja Fisica,0.1
+418,2024-12-01,Carla Silva,Mochila Executiva,Acessorios,1,159.9,Nordeste,Online,0.0
+419,2025-03-16,Eduarda Costa,Tablet Lite,Eletronicos,4,1499.9,Sul,Marketplace,0.1
+420,2025-06-29,William Oliveira,Livro Python Pratico,Livros,1,79.9,Sul,Loja Fisica,0.05
+421,2025-07-26,Vanessa Lima,Webcam HD,Eletronicos,1,179.9,Sudeste,Marketplace,0.05
+422,2025-02-10,Yasmin Silva,Teclado Mecanico,Eletronicos,5,249.9,Nordeste,Online,0.0
+423,2024-01-20,Marcos Souza,Curso SQL Básico,Cursos,3,129.9,Centro-Oeste,Marketplace,0.0
+424,2025-08-12,Larissa Ferreira,Camiseta Dry Fit,Moda,5,49.9,Norte,WhatsApp,0.1
+425,2025-12-27,Thiago Pereira,Livro Python Pratico,Livros,2,79.9,Centro-Oeste,Marketplace,1.2
+426,2024-04-27,Kaique Silva,Mochila Executiva,Acessorios,1,159.9,Nordeste,Online,0.0
+427,2024-06-24,Sabrina Rodrigues,Camiseta Dry Fit,Moda,3,48.4,Centro-Oeste,Online,0.1
+428,2024-03-31,Larissa Souza,Tenis Runner,Moda,3,299.9,Sul,Loja Fisica,0.05
+429,2025-03-22,Rafael Pereira,Luminaria LED,Casa,1,67.8,Norte,Online,0.1
+430,2024-03-21,Kaique Santos,Webcam HD,Eletronicos,2,174.5,Sul,Marketplace,0.05
+431,2024-08-14,Joao Costa,Camiseta Dry Fit,Moda,3,49.9,Nordeste,Online,0.15
+432,2025-06-06,Thiago Souza,Teclado Mecanico,Eletronicos,2,249.9,Sul,Loja Fisica,0.05
+433,2025-06-06,Felipe Lima,Webcam HD,Eletronicos,1,179.9,Sudeste,Marketplace,0.05
+434,2025-10-22,Diego Oliveira,Tenis Runner,Moda,1,299.9,Sudeste,Loja Fisica,0.05
+435,2024-05-29,Henrique Oliveira,Monitor 24,Eletronicos,1,799.9,Sudeste,Online,0.35
+436,2025-09-08,Diego Gomes,Cadeira Office,Moveis,2,899.9,Sul,Loja Fisica,0.1
+437,2024-06-30,Thiago Rodrigues,Teclado Mecanico,Eletronicos,2,249.9,Norte,Online,0.0
+438,2025-07-31,Rafael Rodrigues,Smartphone X,Eletronicos,1,2899.9,Nordeste,Online,0.2
+439,2025-10-20,Thiago Ferreira,Planner 2025,Papelaria,1,39.9,Sudeste,Online,0.0
+440,2025-10-04,Joao Costa,Camiseta Dry Fit,Moda,1,49.9,Nordeste,Online,0.0
+441,2024-03-10,Natalia Rodrigues,Smartphone X,Eletronicos,2,2899.9,Sudeste,Loja Fisica,0.0
+442,2024-10-08,Rafael Silva,Mochila Executiva,Acessorios,1,159.9,Nordeste,Loja Fisica,0.0
+443,2025-06-03,Bruno Santos,Tenis Runner,Moda,1,305.9,Sul,Loja Física,0.1
+444,2025-04-07,ANA SILVA,Smartphone X,Eletronicos,1,2899.9,Centro-Oeste,Online,0.0
+445,2024-10-20,Bruno Gomes,Tenis Runner,Moda,3,299.9,Sudeste,Loja Fisica,0.0
+446,2025-09-21,Sabrina Almeida,Teclado Mecanico,Eletronicos,4,242.4,Sul,Online,0.05
+447,2025-04-18,Rafael Almeida,Livro Python Pratico,Livros,1,79.9,Norte,Loja Fisica,0.1
+448,2025-04-05,Rafael Gomes,Mouse Sem Fio,Eletronicos,3,89.9,Sudeste,Online,0.0
+449,2024-11-25,Sabrina Rodrigues,Mesa Compacta,Moveis,1,649.9,Nordeste,Online,0.2
+450,2024-06-03,Ana Rodrigues,Webcam HD,Eletronicos,2,179.9,Sudeste,Loja Fisica,0.0
+451,2024-12-17,William Souza,Monitor 24,Eletronicos,3,799.9,Sudeste,Marketplace,0.1
+452,2025-10-23,Eduarda Silva,Webcam HD,Eletronicos,3,174.5,Norte,Loja Fisica,0.0
+453,2025-12-25,Marcos Rodrigues,Luminaria LED,Casa,1,67.8,Centro-Oeste,Loja Fisica,0.05
+454,2025-06-19,Sabrina Costa,Webcam HD,Eletronicos,1,1799.0,Sudeste,Online,0.1
+455,2025-01-16,Isabela Pereira,Tenis Runner,Moda,3,299.9,Sudeste,Online,0.1
+456,2024-12-12,Vanessa Ferreira,Curso SQL Basico,Cursos,1,129.9,Sudeste,Online,
+457,2025-10-08,Thiago Lima,Mouse Sem Fio,Eletronicos,6,89.9,Sudeste,Online,0.05
+458,2024-12-03,Carla Almeida,Teclado Mecânico,Eletronicos,2,249.9,Sudeste,Loja Fisica,0.0
+459,2024-10-17,Henrique Barbosa,Livro Python Pratico,Livros,1,79.9,Nordeste,Marketplace,0.0
+460,2024-06-02,Joao Souza,Caneca Termica,Casa,4,84.9,Sudeste,Online,0.0
+461,2025-11-10,Diego Lima,Planner 2025,Papelaria,4,40.7,Sudeste,Online,0.0
+462,2025-11-02,William Gomes,Mochila Executiva,Acessorios,1,155.1,Sudeste,Online,0.05
+463,2024-05-12,Sabrina Barbosa,Livro Python Pratico,Livros,1,77.5,Sul,Online,0.0
+464,2024-11-13,Paula Pereira,Teclado Mecanico,Eletronicos,1,249.9,Nordeste,Online,0.1
+465,2024-05-10,Vanessa Barbosa,Camiseta Dry Fit,Moda,6,49.9,Nordeste,WhatsApp,0.0
+466,2024-04-05,Thiago Gomes,Webcam HD,Eletronicos,2,183.5,Sul,WhatsApp,0.0
+467,2025-06-04,Julia Silva,Curso SQL Basico,Cursos,1,129.9,Sudeste,Online,0.05
+468,2024-11-12,Eduarda Oliveira,Tenis Runner,Cursos,1,299.9,Sudeste,Marketplace,0.15
+469,05-12-2025,Felipe Oliveira,Camiseta Dry Fit,Moda,2,49.9,Nordeste,Online,
+470,2024-06-07,Bruno Santos,Headset Gamer,Eletronicos,4,199.9,N/A,Online,0.05
+471,2025-06-03,Paula Barbosa,Monitor 24,Eletronicos,1,815.9,Sudeste,Loja Fisica,0.0
+472,2024-02-08,Vanessa Lima,Webcam HD,Eletronicos,3,179.9,Sudeste,Loja Fisica,0.05
+473,2024-05-14,Sabrina Pereira,Caneca Termica,Casa,1,86.6,Sudeste,Loja Fisica,0.0
+474,2024-06-15,Eduarda Barbosa,Headset Gamer,Eletronicos,3,199.9,Sudeste,Loja Fisica,0.15
+475,2024-06-18,Yasmin Rodrigues,Caneca Termica,Casa,1,84.9,Sudeste,Online,0.15
+476,2025-02-24,Julia Gomes,Mouse Sem Fio,Eletronicos,3,89.9,Sul,Loja Fisica,0.15
+477,2025-03-30,Sabrina Santos,Luminaria LED,Casa,1,69.9,Centro-Oeste,Online,0.1
+478,2024-08-27,Paula Oliveira,Smartphone X,Eletronicos,1,2957.9,Sudeste,Loja Fisica,0.15
+479,2025-04-25,Felipe Lima,Mochila Executiva,Acessorios,1,163.1,Sul,Marketplace,0.05
+480,2025-03-27,Marcos Santos,Planner 2025,Papelaria,1,39.9,Sul,Online,0.15
+481,2025-05-29,Otavio Pereira,Livro Python Pratico,Livros,1,79.9,Sul,Online,0.05
+482,2024-07-23,Sabrina Costa,Cadeira Office,Moveis,4,899.9,Norte,Online,0.1
+483,2024-02-23,Thiago Rodrigues,Garrafa Termica,Casa,1,59.9,Centro-Oeste,Online,0.1
+484,2025-07-21,Carla Barbosa,Tenis Runner,Moda,1,299.9,Sul,Online,0.2
+485,2024-05-07,Isabela Souza,Webcam HD,Eletronicos,2,179.9,Centro-Oeste,Online,0.1
+486,2024-10-06,Marcos Almeida,Cadeira Office,Moveis,2,899.9,Nordeste,Marketplace,0.1
+487,2025-03-23,Bruno Oliveira,Headset Gamer,Eletronicos,2,199.9,Sul,Loja Física,0.0
+488,2024-12-23,Lucas Pereira,Smartphone X,Eletronicos,1,2899.9,Sudeste,Online,0.0
+489,2025-02-09,Otavio Lima,Mouse Sem Fio,Eletronicos,5,89.9,Sul,Online,0.2
+490,2025-01-30,Bruno Lima,Luminaria LED,Casa,1,69.9,Norte,Loja Fisica,0.1
+491,2024-01-29,Joao Souza,Luminaria LED,Casa,1,69.9,Norte,Online,0.0
+492,2024-05-29,Diego Silva,Camiseta Dry Fit,Moda,5,49.9,Sul,Online,0.15
+493,2025-04-28,William Costa,Mochila Executiva,Acessorios,1,159.9,Nordeste,Loja Fisica,0.2
+494,2025-04-04,Sabrina Silva,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Online,0.15
+495,2024-01-20,Henrique Oliveira,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Loja Fisica,0.0
+496,2025-07-15,Yasmin Ferreira,Headset Gamer,Eletronicos,1,199.9,Sudeste,Marketplace,0.1
+497,2025-03-09,Carla Santos,Webcam HD,Eletronicos,1,179.9,Nordeste,Marketplace,0.0
+498,2024-11-04,Carla Silva,Luminaria LED,Casa,1,69.9,Nordeste,Loja Fisica,0.0
+499,2025-03-05,Thiago Ferreira,Luminaria LED,Casa,1,69.9,Norte,Loja Fisica,0.0
+500,2024-03-05,Carla Rodrigues,Smartphone X,Eletronicos,2,2899.9,Norte,Marketplace,0.0
+501,2025-07-02,Lucas Gomes,Caneca Termica,Casa,2,84.9,Nordeste,Online,0.0
+502,2025-08-11,Gabriela Barbosa,Webcam HD,Eletronicos,1,179.9,Sudeste,Marketplace,0.0
+503,2024-10-25,Larissa Silva,Headset Gamer,Eletronicos,1,199.9,Sul,Online,0.1
+504,2024-12-27,Gabriela Ferreira,Caneca Termica,Casa,4,84.9,Sudeste,Online,0.0
+505,2024-07-10,Vanessa Gomes,Curso SQL Basico,Cursos,2,129.9,Sul,Marketplace,0.2
+506,2025-06-20,Julia Souza,Teclado Mecanico,Eletrônicos,1,242.4,Nordeste,Marketplace,0.05
+507,2025-07-11,Otavio Almeida,Webcam HD,Eletronicos,1,179.9,Sul,Loja Fisica,0.0
+508,2024-01-21,Kaique Rodrigues,SSD 1TB,Eletronicos,1,459.9,Sudeste,Online,0.0
+509,2025-10-12,Kaique Lima,Mouse Sem Fio,Eletronicos,5,89.9,Sul,Online,0.1
+510,2024-01-17,Julia Souza,Garrafa Termica,Casa,1,59.9,Sudeste,Loja Fisica,0.0
+511,2024-09-03,Yasmin Gomes,Tenis Runner,Moda,2,299.9,Sudeste,Online,0.05
+512,2025-08-18,Yasmin Lima,Monitor 24,Eletronicos,2,799.9,Nordeste,Marketplace,0.0
+513,2024-02-15,Julia Almeida,Headset Gamer,Eletronicos,1,199.9,Nordeste,Loja Fisica,0.0
+514,2025-10-20,Eduarda Gomes,Camiseta Dry Fit,Moda,2,49.9,Centro-Oeste,Online,0.0
+515,2025-12-13,Natalia Gomes,Smartphone X,Eletronicos,1,2812.9,Sudeste,Loja Fisica,0.05
+516,2024-05-18,Bruno Barbosa,Cadeira office,Moveis,1,899.9,Sul,Loja Fisica,0.1
+517,2024-02-07,Isabela Oliveira,Smartphone X,Eletronicos,2,2899.9,Sudeste,,0.2
+518,2024-07-23,Ana Lima,Mouse Sem Fio,Eletronicos,4,87.2,Sul,Online,0.0
+519,2025-06-11,Kaique Almeida,Mochila Executiva,Acessorios,1,159.9,Sudeste,Loja Fisica,0.0
+520,2024-09-16,Ana Gomes,Tablet Lite,Eletronicos,1,1499.9,Centro-Oeste,Loja Fisica,0.2
+521,2024-10-19,Julia Silva,Mesa Compacta,Moveis,1,649.9,Sul,Marketplace,0.1
+522,2024-10-06,Carla Lima,Camiseta Dry Fit,Moda,2,49.9,Norte,Online,0.0
+523,2025-02-13,Yasmin Rodrigues,Curso SQL Basico,Cursos,2,129.9,Sudeste,Online,0.2
+524,2024-12-13,Eduarda Rodrigues,Livro Python Pratico,Livros,2,77.5,Sul,Loja Fisica,0.2
+525,2025-01-11,Otavio Santos,Tablet Lite,Eletronicos,1,1499.9,Nordeste,Online,0.0
+526,2025-03-10,Bruno Pereira,Teclado Mecanico,Eletronicos,2,249.9,Sudeste,Online,0.1
+527,2024-07-03,Paula Santos,Caneca Termica,Casa,4,84.9,Centro-Oeste,Online,0.15
+528,2024-04-15,Bruno Lima,Camiseta Dry Fit,Moda,5,48.4,Sudeste,Online,0.0
+529,2024-11-09,Marcos Ferreira,Mochila Executiva,Acessorios,2,159.9, Sudeste ,Online,0.35
+530,2024-06-19,William Rodrigues,Curso SQL Basico,Cursos,1,129.9,Sudeste,Loja Fisica,0.0
+531,2025-04-02,Ana Barbosa,Tenis Runner,Moda,2,290.9,Sudeste,Loja Fisica,0.0
+532,2025-09-21,Larissa Santos,Tenis Runner,Moda,1,299.9,Sudeste,Online,0.0
+533,2024-03-17,Vanessa Gomes,Mouse Sem Fio,Eletronicos,5,89.9,Sul,Online,0.2
+534,2025-01-07,Otavio Barbosa,Livro Python Pratico,Livros,4,79.9,Sul,Loja Fisica,0.2
+535,2024-02-01,Diego Ferreira,Cadeira Office,Moveis,1,899.9,Sudeste,Loja Fisica,0.0
+536,2024-02-05,Diego Souza,Smartphone X,Eletrônicos,5,2899.9,Nordeste,Marketplace,0.15
+537,2025-10-22,Julia Lima,Luminaria LED,Casa,4,69.9,Sudeste,WhatsApp,0.1
+538,2025-08-03,Ana Ferreira,Livro Python Pratico,Livros,1,79.9,Sudeste,Online,0.05
+539,2025-11-26,Marcos Lima,Headset Gamer,Eletronicos,1,1939.0,Sudeste,Marketplace,0.05
+540,2025-03-30,Bruno Ferreira,Tenis Runner,Moda,1,299.9,Sudeste,WhatsApp,0.0
+541,2025-06-26,Julia Pereira,Headset Gamer,Eletronicos,1,199.9,Centro-Oeste,Marketplace,
+542,2025-10-27,Henrique Oliveira,Camiseta Dry Fit,Moda,1,49.9,Sudeste,Loja Fisica,0.0
+543,2024-01-27,Yasmin Costa,Monitor 24,Eletronicos,1,799.9,Sul,WhatsApp,0.0
+544,2025-06-14,Kaique Almeida,Tablet Lite,Eletronicos,1,1529.9,Sudeste,Marketplace,0.15
+545,2024-09-25,Henrique Barbosa,Monitor 24,Eletronicos,1,799.9,Sudeste,Marketplace,0.0
+546,2024-08-07,Sabrina Santos,Smartphone X,Eletronicos,1,2899.9,Sudeste,Online,0.0
+547,2024-07-23,Carla Costa,Tablet Lite,Eletronicos,1,1454.9,Sudeste,Online,0.0
+548,2025-04-07,Eduarda Barbosa,Teclado Mecanico,Eletronicos,1,249.9,Sul,Online,0.2
+549,2024-03-30,Vanessa Lima,Smartphone X,Eletronicos,1,2899.9,Sudeste,Loja Fisica,0.1
+550,2025-12-27,Bruno Almeida,Tenis Runner,Moda,1,299.9,Sul,WhatsApp,0.15
+551,2024-10-24,Isabela Costa,SSD 1TB,Eletronicos,2,459.9,Sudeste,Loja Fisica,0.0
+552,2025-01-05,Otavio Oliveira,Cadeira Office,Moveis,1,872.9,Centro-Oeste,Marketplace,0.0
+553,2024-07-24,Diego Oliveira,,Eletronicos,1,799.9,Sul,Loja Fisica,0.0
+554,2024-01-27,Julia Almeida,Tablet Lite,Eletronicos,2,1499.9,Centro-Oeste,Loja Fisica,0.1
+555,2025-01-12,Marcos Almeida,Planner 2025,Papelaria,5,38.7,Sudeste,Online,0.0
+556,2025-09-18,Bruno Souza,Headset Gamer,Eletronicos,1,199.9,Sudeste,Online,0.0
+557,2025-02-11,William Barbosa,mochila executiva,Acessorios,1,159.9,Sul,Online,0.0
+558,2025-06-22,Larissa Pereira,Tablet Lite,Eletronicos,1,1499.9,Norte,Loja Fisica,0.2
+559,2024-03-16,Diego Lima,Planner 2025,Papelaria,4,39.9,Sul,Online,0.0
+560,2025-04-05,Marcos Gomes,Teclado Mecanico,Eletronicos,2,249.9,Sul,Online,0.0
+561,2024-12-18,Diego Almeida,Webcam HD,Eletronicos,2,179.9,Sul,Marketplace,0.0
+562,2024-07-05,Diego Pereira,Planner 2025,Papelaria,1,39.9,Sudeste,Loja Fisica,1.2
+563,2024-02-26,Carla Almeida,Webcam HD,Eletronicos,2,179.9,Sul,Online,0.0
+564,2024-11-07,Eduarda Costa,Headset Gamer,Eletronicos,1,199.9,Sudeste,Marketplace,0.0
+565,2025-12-27,Gabriela Lima,Camiseta Dry Fit,Moda,2,49.9,Sul,Marketplace,0.1
+566,2024-10-17,Bruno Santos,Webcam HD,Eletronicos,1,179.9,Sul,Loja Fisica,0.1
+567,2025-10-12,Paula Santos,Mesa Compacta,Moveis,1,649.9,Sul,Online,0.0
+568,2025-10-02,Isabela Ferreira,Headset Gamer,Eletronicos,5,199.9,Sul,Loja Física,0.1
+569,2024-04-05,Otavio Gomes,SSD 1TB,Eletronicos,4,459.9,Sudeste,Online,0.0
+570,2025-08-29,Rafael Costa,Cadeira Office,Moveis,2,872.9,Sudeste,Online,0.15
+571,2025-11-05,Sabrina Barbosa,Cadeira Office,Moveis,2,899.9,Sul,Online,0.0
+572,2024-12-11,Rafael Silva,Caneca Termica,Casa,-1,84.9,Sul,Online,0.05
+573,2024-03-24,Ana Gomes,Notebook Pro 14,Eletronicos,3,4200.0,Nordeste,Marketplace,0.05
+574,2024-09-28,Thiago Oliveira,Planner 2025,Papelaria,5,39.9,Nordeste,Online,0.0
+575,2025-03-02,Sabrina Gomes,Planner 2025,Papelaria,5,39.9,Centro-Oeste,Loja Fisica,0.05
+576,05-24-2025,Thiago Almeida,Notebook Pro 14,Eletronicos,3,4200.0,Norte,Loja Fisica,0.0
+577,2025-10-19,Isabela Rodrigues,Mochila Executiva,Acessorios,1,159.9,Centro-Oeste,Online,0.05
+578,2025-12-02,Kaique Santos,Luminaria LED,Casa,2,69.9,Sudeste,Online,0.1
+579,2024-03-15,William Silva,Smartphone X,Eletronicos,1,2899.9,Sudeste,Online,0.0
+580,2025-03-26,Larissa Rodrigues,Cadeira Office,Moveis,4,899.9,Sudeste,Loja Fisica,0.05
+581,2024-07-27,JOAO FERREIRA,Smartphone X,Eletronicos,1,2899.9,Sudeste,Online,0.0
+582,2024-11-16,William Lima,Headset Gamer,Eletronicos,1,199.9,Sul,Online,0.05
+583,2025-02-12,Diego Lima,Tenis Runner,Moda,5,299.9,Nordeste,Online,0.1
+584,2025-07-29,Carla Lima,Webcam HD,Eletronicos,1,179.9,Centro-Oeste,Online,0.0
+585,2025-04-22,Carla Santos,Luminaria LED,Casa,1,71.3,Centro-Oeste,Online,0.1
+586,2024-09-10,Diego Souza,Smartphone X,Eletronicos,2,2899.9,Norte,Online,0.2
+587,2024-10-24,Kaique Ferreira,Mouse Sem Fio,Eletronicos,3,87.2,Sudeste,Loja Fisica,0.0
+588,2024-09-11,Eduarda Lima,Curso SQL Basico,Cursos,4,129.9,Centro-Oeste,Loja Fisica,0.1
+589,2024-11-16,Felipe Costa,Planner 2025,Papelaria,2,39.9,Sudeste,Marketplace,0.2
+590,2025-06-11,Marcos Rodrigues,Tablet Lite,Eletronicos,1,1499.9,Sul,Loja Fisica,0.15
+591,2025-05-24,Lucas Souza,Mochila Executiva,Acessorios,2,155.1,Sudeste,Loja Fisica,0.0
+592,2025-06-01,Marcos Oliveira,Livro Python Pratico,Livros,2,79.9,Centro-Oeste,Online,0.2
+593,2025-08-20,Julia Silva,Mesa Compacta,Moveis,2,649.9,Nordeste,Loja Fisica,0.2
+594,2024-10-15,Natalia Ferreira,Mouse Sem Fio,Eletronicos,2,89.9,Nordeste,Loja Fisica,0.15
+595,2024-10-19,Paula Silva,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Loja Fisica,0.0
+596,2025-03-17,Diego Santos,Monitor 24,Eletronicos,2,799.9,Sudeste,Online,0.1
+597,2025-02-16,Julia Silva,Tenis Runner,Moda,1,299.9,Sul,Loja Fisica,0.0
+598,2024-02-22,Rafael Almeida,Livro Python Pratico,Livros,1,79.9,Centro-Oeste,Online,0.0
+599,2025-01-06,Paula Santos,Mesa Compacta,Moveis,2,662.9,Sudeste,Loja Física,0.0
+600,2025-01-30,Otavio Rodrigues,Teclado Mecanico,Eletronicos,2,249.9,Sul,Marketplace,0.2
+601,2024-10-13,Sabrina Gomes,SSD 1TB,Eletronicos,1,459.9,Sudeste,Loja Fisica,0.1
+602,2024-05-01,Diego Souza,Caneca Termica,Casa,2,84.9,Sul,Loja Fisica,0.05
+603,2025-01-17,Joao Almeida,Livro Python Pratico,Livros,1,79.9,Sul,Loja Fisica,0.1
+604,2024-05-27,Felipe Ferreira,Tenis Runner,Moda,2,299.9,Nordeste,Loja Fisica,0.0
+605,2025-02-15,Otavio Silva,Webcam HD,Eletronicos,2,179.9,Sul,Online,0.1
+606,2024-02-09,Diego Barbosa,Mouse Sem Fio,Eletronicos,1,89.9,Centro-Oeste,Loja Fisica,0.0
+607,2025-04-30,Otavio Rodrigues,Camiseta Dry Fit,Moda,1,49.9,Sudeste,Online,0.1
+608,2025-09-12,Otavio Costa,Headset Gamer,Eletronicos,1,199.9,,Online,0.0
+609,2025-09-19,Joao Costa,Camiseta Dry Fit,Moda,5,49.9,Sudeste,Online,0.0
+610,2025-09-23,Yasmin Santos,Livro Python Pratico,Livros,1,79.9,Sudeste,Loja Fisica,0.0
+611,2024-12-10,Otavio Almeida,Planner 2025,Papelaria,5,39.9,Centro-Oeste,Marketplace,0.2
+612,2025-05-16,William Ferreira,SSD 1TB,Eletronicos,1,459.9,Sudeste,WhatsApp,0.15
+613,2025-05-01,Lucas Lima,Mochila Executiva,Acessorios,1,159.9,Sudeste,Loja Física,0.0
+614,2025-11-20,Carla Pereira,Camiseta Dry Fit,Moda,5,49.9,Sul,Loja Fisica,0.0
+615,2024-11-11,Yasmin Barbosa,Planner 2025,Papelaria,4,39.9,Nordeste,Loja Fisica,0.0
+616,2025-09-03,Natalia Santos,Notebook PRO 14,Eletronicos,1,4200.0,Norte,Loja Física,0.1
+617,2025-08-14,Gabriela Barbosa,Planner 2025,Papelaria,1,39.9,Norte,Online,0.15
+618,2025-08-20,Natalia Costa,Mouse Sem Fio,Eletronicos,1,89.9,Nordeste,Loja Fisica,0.05
+619,2025-10-06,Yasmin Ferreira,Webcam HD,Eletronicos,1,183.5,Sudeste,Online,0.0
+620,2024-05-31,Vanessa Oliveira,Livro Python Pratico,Livros,2,79.9,Sudeste,Online,0.0
+621,2025-08-09,William Souza,Mouse Sem Fio,Eletronicos,4,89.9,Nordeste,Loja Fisica,0.0
+622,2024-01-20,Marcos Lima,Mesa Compacta,Moveis,2,649.9,Sudeste,Online,0.05
+623,2024-06-04,Larissa Barbosa,Curso SQL Basico,Cursos,1,129.9,Nordeste,Loja Fisica,0.0
+624,2025-02-24,Otavio Ferreira,Mesa Compacta,Moveis,3,630.4,Nordeste,Loja Física,0.0
+625,2024-03-04,William Costa,Tablet Lite,Eletronicos,2,1499.9,Norte,Online,0.05
+626,2024-07-31,Paula Lima,Webcam HD,Eletronicos,2,179.9,Centro-Oeste,Online,0.1
+627,2025-06-22,Kaique Lima,Tablet Lite,Eletronicos,2,1499.9,Sul,Marketplace,0.05
+628,2025-04-15,Paula Lima,Cadeira Office,Moveis,2,899.9,Sudeste,Online,0.15
+629,2024-12-28,Vanessa Barbosa,SSD 1TB,Eletrônicos,1,459.9,Norte,Online,0.1
+630,2025-09-16,Natalia Oliveira,Garrafa Termica,Casa,1,61.1,Sul,Online,0.05
+631,2024-10-12,Paula Santos,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.0
+632,2024-10-31,Isabela Barbosa,Luminaria LED,Casa,1,69.9,Sul,Loja Fisica,0.0
+633,2025-12-07,William Rodrigues,Mesa Compacta,Moveis,1,649.9,Sudeste,Online,0.0
+634,2025-05-06,Julia Almeida,Camiseta Dry Fit,Moda,4,49.9,Sudeste,Online,0.0
+635,2024-10-21,Carla Ferreira,Garrafa Termica,Casa,1,58.1,Sul,Marketplace,0.05
+636,2025-01-23,Kaique Lima,SSD 1TB,Eletronicos,2,459.9,Sudeste,Marketplace,0.1
+637,2024-10-24,Ana Santos,Headset Gamer,Eletronicos,1,199.9,Nordeste,Loja Fisica,0.05
+638,2024-12-20,Marcos Gomes,Teclado Mecanico,Eletronicos,1,249.9,Nordeste,Marketplace,0.1
+639,2025-05-05,Felipe Oliveira,Garrafa Termica,Casa,3,59.9,Sudeste,Marketplace,0.05
+640,2024-10-04,Paula Barbosa,SSD 1TB,Eletronicos,1,459.9,Sudeste,Loja Fisica,0.0
+641,2024-05-20,Carla Ferreira,Garrafa Termica,Casa,1,59.9,Nordeste,Online,0.15
+642,2024-09-02,Gabriela Silva,Planner 2025,Papelaria,1,39.9,Sudeste,Online,0.1
+643,2024-08-19,Thiago Oliveira,Webcam HD,Eletronicos,2,179.9,Centro-Oeste,Loja Fisica,0.0
+644,2024-04-12,Larissa Lima,Mouse Sem Fio,Eletronicos,2,89.9,Centro-Oeste,Online,0.1
+645,2024-04-12,Vanessa Costa,Tablet Lite,Eletronicos,2,1499.9,Centro-Oeste,Loja Fisica,0.1
+646,2025-07-17,Eduarda Pereira,Notebook Pro 14,Eletronicos,2,4200.0,Nordeste,Online,0.1
+647,2025-05-03,Thiago Oliveira,Tablet Lite,Eletronicos,1,1499.9,Norte,Online,0.0
+648,2024-11-24,Isabela Gomes,Mochila Executiva,Acessorios,1,159.9,Sudeste,Online,0.1
+649,2024-04-01,Thiago Ferreira,Mouse Sem Fio,Eletronicos,5,89.9,Centro-Oeste,Marketplace,0.2
+650,2025-07-01,Yasmin Barbosa,Luminaria LED,Casa,3,69.9,Nordeste,Loja Fisica,0.0
+651,2024-06-28,Larissa Costa,Mouse Sem Fio,Eletronicos,2,91.7,Sudeste,Marketplace,0.15
+652,2025-02-10,Natalia Costa,Mouse Sem Fio,Eletronicos,1,-89.9,Sudeste,Online,0.0
+653,2024-02-08,Lucas Santos,Mochila Executiva,Acessorios,2,159.9,Sudeste,Online,0.1
+654,2025-09-09,Carla Lima,Planner 2025,Papelaria,4,39.9,Sudeste,Marketplace,0.0
+655,2025-04-10,Thiago Almeida,Mochila Executiva,Acessorios,2,159.9,Sudeste,Loja Fisica,0.15
+656,2025-05-20,Diego Almeida,Webcam HD,Eletronicos,2,179.9,Sul,Marketplace,0.0
+657,2024-10-06,Felipe Souza,Smartphone X,Eletronicos,1,2899.9,Nordeste,Loja Fisica,0.15
+658,2024-06-15,Yasmin Rodrigues,Camiseta Dry Fit,Moda,3,49.9,Nordeste,WhatsApp,0.2
+659,2024-07-09,Lucas Barbosa,Garrafa Termica,Casa,4,59.9,Sudeste,Online,0.05
+660,2024-10-29,,Camiseta Dry Fit,Moda,2,49.9,Sul,Online,0.05
+661,2024-06-28,Sabrina Gomes,Mesa Compacta,Moveis,2,649.9,Sudeste,Online,0.0
+662,2025-03-13,Otavio Lima,Livro Python Pratico,Livros,2,79.9,Nordeste,Loja Fisica,0.05
+663,2025-02-14,Vanessa Souza,Teclado Mecanico,Eletronicos,2,249.9,Nordeste,Online,0.1
+664,2024-05-23,Natalia Lima,Cadeira Office,Moveis,2,899.9,Sul,Marketplace,0.2
+665,2024-01-07,Henrique Pereira,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.05
+666,2025-04-02,Henrique Lima,Luminaria LED,Casa,4,67.8,Sudeste,Loja Fisica,0.0
+667,2025-08-19,Yasmin Ferreira,Mochila Executiva,Acessorios,1,159.9,Sudeste,Online,0.05
+668,2024-09-24,Thiago Lima,Notebook PRO 14,Eletronicos,3,4200.0,Sudeste,Online,0.15
+669,2024-03-04,Vanessa Souza,Luminaria LED,Casa,1,71.3,Sudeste,Online,0.1
+670,2024-11-10,Eduarda Pereira,Smartphone X,Eletronicos,1,2899.9,Sul,Loja Fisica,0.2
+671,2025-12-21,Isabela Barbosa,Webcam HD,Eletronicos,3,183.5,Norte,Online,0.0
+672,2025-10-16,Isabela Lima,Monitor 24,Eletronicos,2,799.9,Sul,WhatsApp,0.0
+673,2024-08-14,Gabriela Costa,Caneca Termica,Casa,1,84.9,Nordeste,Online,0.0
+674,2024-06-05,Marcos Barbosa,Tablet Lite,Eletronicos,1,1529.9,Nordeste,WhatsApp,0.1
+675,2025-01-17,Larissa Barbosa,Caneca Termica,Casa,2,84.9,Sudeste,Online,0.0
+676,2025-04-27,Paula Gomes,SSD 1TB,Eletronicos,1,446.1,Centro-Oeste,Online,
+677,2024-09-10,Vanessa Ferreira,Mesa Compacta,Moveis,1,649.9,Sul,Online,0.0
+678,2025-06-22,Marcos Almeida,Teclado Mecanico,Eletronicos,1,249.9,Nordeste,Loja Fisica,0.0
+679,2024-03-20,Rafael Souza,Tenis Runner,Moda,2,299.9,Nordeste,Loja Fisica,0.05
+680,2025-07-14,Otavio Oliveira,Mouse Sem Fio,Eletronicos,2,89.9,Sudeste,Online,0.05
+681,2025-07-03,Diego Costa,Planner 2025,Papelaria,1,39.9,Sudeste,Online,0.1
+682,2025-06-16,Marcos Souza,Camiseta Dry Fit,Moda,4,49.9,Sul,Online,0.05
+683,2025-08-20,Natalia Souza,Mesa Compacta,Moveis,5,649.9,Sul,Online,0.0
+684,2025-04-01,Ana Rodrigues,Webcam HD,Eletronicos,2,179.9,Sudeste,Loja Fisica,0.15
+685,2025-06-09,Larissa Rodrigues,Headset Gamer,Eletrônicos,3,199.9,Sudeste,Online,0.05
+686,2024-02-29,Paula Rodrigues,Planner 2025,Papelaria,1,39.9,Sul,Online,0.05
+687,2024-01-23,Kaique Santos,Mochila Executiva,Acessorios,1,159.9,Sudeste,Online,0.05
+688,2024-08-11,Rafael Souza,Notebook Pro 14,Eletronicos,2,4200.0,Nordeste,Loja Fisica,0.0
+689,2025-03-09,Julia Barbosa,Mouse Sem Fio,Eletronicos,1,91.7,Sul,Online,0.15
+690,2025-07-08,Ana Souza,Teclado Mecanico,Eletronicos,1,249.9,Nordeste,Online,0.1
+691,2024-02-02,Isabela Pereira,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Marketplace,0.1
+692,2024-05-18,Thiago Barbosa,Cadeira Office,Moveis,2,899.9,Nordeste,Online,0.15
+693,2025-01-18,Kaique Rodrigues,Curso SQL Básico,Cursos,1,129.9,Norte,Marketplace,0.1
+694,2025-01-19,Bruno Gomes,Livro Python Pratico,Livros,2,79.9,Nordeste,Online,0.0
+695,2024-05-16,Thiago Lima,SSD 1TB,Eletronicos,1,459.9,Sul,Online,0.0
+696,2024-07-01,Paula Pereira,Monitor 24,Eletronicos,1,799.9,Sul,Online,0.05
+697,2024-05-10,Yasmin Oliveira,Webcam HD,Eletronicos,1,183.5,Sudeste,Online,0.05
+698,2024-01-24,Isabela Rodrigues,Notebook Pro 14,Eletronicos,2,4074.0,Sudeste,Marketplace,0.0
+699,2025-03-10,Paula Pereira,SSD 1TB,Eletronicos,1,459.9,Centro-Oeste,Loja Fisica,0.05
+700,2024-09-10,Marcos Lima,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.0
+701,2024-10-09,Felipe Barbosa,Headset Gamer,Eletronicos,1,199.9,Sul,Online,0.0
+702,2024-02-02,Vanessa Pereira,Monitor 24,Eletrônicos,1,799.9,Norte,Loja Fisica,0.0
+703,2024-01-17,Gabriela Oliveira,Caneca Termica,Casa,1,84.9,Sudeste,Marketplace,0.0
+704,2024-04-13,Sabrina Silva,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Online,0.1
+705,2025-09-04,Vanessa Barbosa,Smartphone X,Eletronicos,4,2899.9,Sudeste,Online,0.0
+706,2024-09-07,Yasmin Silva,Mouse Sem Fio,Eletronicos,4,91.7,Nordeste,Online,0.0
+707,2025-03-25,Gabriela Almeida,Livro Python Pratico,Livros,2,79.9,Sul,Online,
+708,2024-02-27,Diego Almeida,Mesa Compacta,Moveis,1,649.9,Sul,WhatsApp,0.15
+709,2024-08-27,Yasmin Ferreira,Mochila Executiva,Acessorios,1,159.9,Centro-Oeste,WhatsApp,0.0
+710,2025-08-14,Sabrina Gomes,Camiseta Dry Fit,Moda,3,48.4,Sul,Online,0.0
+711,2024-08-30,Isabela Costa,Camiseta Dry Fit,Moda,2,49.9,Centro-Oeste,Marketplace,0.2
+712,2024-08-14,Larissa Santos,Webcam HD,Eletronicos,1,179.9,Sul,Online,0.0
+713,2024-03-03,Paula Ferreira,Garrafa Termica,Casa,1,59.9,Sul,Online,0.05
+714,2025-10-03,Vanessa Pereira,Cadeira Office,Móveis,1,-899.9,Sudeste,Marketplace,0.1
+715,2025-05-22,Ana Lima,SSD 1TB,Eletronicos,3,446.1,Sul,Marketplace,0.0
+716,2025-06-21,Joao Barbosa,Livro Python Pratico,Livros,1,79.9,Sudeste,Online,0.0
+717,2025/02/22,Diego Santos,Curso SQL Basico,Cursos,3,129.9,Sul,Online,0.1
+718,2024-07-07,Paula Rodrigues,Livro Python Pratico,Livros,1,79.9,Nordeste,Online,0.0
+719,2024-08-18,Isabela Barbosa,Luminaria LED,Casa,1,69.9,Sudeste,Loja Fisica,0.0
+720,2025-04-19,Ana Almeida,Headset Gamer,Eletronicos,1,199.9,Sudeste,Online,0.0
+721,2025-03-02,Paula Almeida,Curso SQL Basico,Cursos,1,129.9,Sul,Online,0.1
+722,2025-02-01,Gabriela Santos,Headset Gamer,Eletronicos,4,199.9,Sul,Loja Fisica,0.1
+723,2024-12-04,Thiago Souza,Mesa Compacta,Móveis,1,649.9,Centro-Oeste,Online,0.1
+724,2025-01-14,Bruno Almeida,Smartphone X,Eletronicos,1,2957.9,Sudeste,Online,0.0
+725,2024-02-22,Henrique Pereira,Mesa Compacta,Moveis,1,630.4,Norte,Loja Fisica,0.1
+726,2025-09-09,Ana Souza,Caneca Termica,Casa,3,84.9,Nordeste,Online,0.05
+727,2025-08-24,Yasmin Gomes,Mesa Compacta,Moveis,4,662.9,Sul,WhatsApp,0.0
+728,2024-08-10,Natalia Oliveira,SSD 1TB,Eletronicos,1,459.9,Centro-Oeste,Online,0.0
+729,2024-11-06,Lucas Oliveira,Camiseta Dry Fit,Moda,1,49.9,Sudeste,Online,0.05
+730,2024-04-30,Yasmin Rodrigues,Mesa Compacta,Moveis,2,649.9,Sul,Online,0.0
+731,2025-12-13,Sabrina Barbosa,Luminaria LED,Casa,2,69.9,Centro-Oeste,Online,0.0
+732,2025-02-10,Gabriela Almeida,Mesa Compacta,Moveis,1,649.9,Sul,Online,0.0
+733,2024-10-16,Kaique Rodrigues,Camiseta Dry Fit,Moda,2,49.9,Sudeste,Online,0.2
+734,2025-10-26,Julia Santos,SSD 1TB,Eletronicos,4,459.9,Sudeste,Loja Fisica,0.0
+735,2025-01-03,Otavio Rodrigues,Garrafa Termica,Casa,1,59.9,Sudeste,WhatsApp,0.05
+736,2024-04-10,Yasmin Rodrigues,Smartphone X,Eletronicos,1,2899.9,Sudeste,Online,0.05
+737,2024-07-27,Julia Lima,Camiseta Dry Fit,Moda,1,49.9,Sudeste,Loja Fisica,0.0
+738,2024-02-16,Rafael Oliveira,Curso SQL Basico,Cursos,2,129.9,Sudeste,Online,0.0
+739,2024-01-17,Henrique Almeida,Headset Gamer,Eletronicos,1,193.9,Sudeste,Loja Fisica,0.1
+740,2025-08-16,Yasmin Pereira,Planner 2025,Papelaria,1,39.9,N/A,Marketplace,0.0
+741,2024-06-05,Felipe Lima,Mochila Executiva,Acessorios,1,159.9,Sul,Loja Fisica,0.0
+742,2025-01-23,Rafael Oliveira,Luminaria LED,Casa,2,69.9,Sul,Online,0.15
+743,2025-07-17,Thiago Gomes,Tablet Lite,Eletronicos,3,1499.9,Sudeste,Loja Fisica,0.0
+744,2024-09-20,Natalia Barbosa,Camiseta Dry Fit,Moda,4,49.9,Sudeste,Loja Fisica,0.1
+745,2025-04-16,Eduarda Barbosa,Tablet Lite,Eletronicos,2,1499.9,Sudeste,Marketplace,0.0
+746,2024-06-22,Diego Barbosa,Tenis Runner,Moda,3,299.9,Centro-Oeste,Marketplace,0.05
+747,2025-05-15,Eduarda Almeida,SSD 1TB,Eletronicos,1,459.9,Sudeste,Online,0.0
+748,2025-06-20,Ana Souza,Mouse Sem Fio,Eletronicos,8,89.9,Sul,Online,0.1
+749,2024-01-07,Larissa Costa,Mouse Sem Fio,Eletronicos,5,89.9,Sul,Online,0.1
+750,2024-03-10,William Costa,Luminaria LED,Casa,5,69.9,Norte,Loja Fisica,0.1
+751,2024-08-11,Otavio Rodrigues,Notebook Pro 14,Eletronicos,1,4200.0,Sul,Online,0.05
+752,2024-03-02,Sabrina Gomes,Tenis Runner,Moda,1,299.9,Sudeste,Online,0.0
+753,2025-05-09,Vanessa Rodrigues,Caneca Térmica,Casa,4,84.9,Sul,Online,0.0
+754,2024-01-07,Paula Almeida,Notebook Pro 14,Eletronicos,1,4200.0,Sudeste,Loja Fisica,0.0
+755,2024-01-13,Lucas Almeida,Curso SQL Basico,Cursos,1,129.9,Sul,WhatsApp,0.0
+756,2025-07-02,Isabela Silva,Garrafa Termica,Casa,6,59.9,Sudeste,Online,0.0
+757,2025-12-15,Vanessa Pereira,Webcam HD,Eletronicos,0,179.9,Norte,Loja Fisica,0.0
+758,2024-04-19,Carla Almeida,Cadeira Office,Moveis,1,917.9,Norte,Loja Fisica,0.0
+759,2024-09-03,Felipe Ferreira,Headset Gamer,Eletrônicos,1,199.9,Centro-Oeste,Loja Fisica,0.0
+760,2024-09-15,Julia Santos,Webcam HD,Eletronicos,1,179.9,Sudeste,Online,0.0
+761,2024-03-21,Julia Pereira,Livro Python Pratico,Livros,2,79.9,Nordeste,Online,0.1
+762,2025-08-01,Gabriela Barbosa,Smartphone X,Eletronicos,1,2899.9,Sudeste,Online,0.15
+763,2024-11-03,Vanessa Souza,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.05
+764,2024-04-05,Kaique Pereira,Mouse Sem Fio,Eletronicos,2,89.9,Sudeste,Online,0.05
+765,2025-07-19,desconhecido,Livro Python Pratico,Livros,2,79.9,Nordeste,Online,0.0
+766,2025-12-20,Eduarda Souza,Notebook Pro 14,Eletronicos,1,4200.0,Sudeste,Online,0.0
+767,2025/03/20,Thiago Lima,Tablet Lite,Eletronicos,2,1499.9,Nordeste,Loja Fisica,0.0
+768,2024-04-07,Otavio Silva,Planner 2025,Papelaria,2,39.9,Nordeste,Online,0.0
+769,2024-08-04,William Ferreira,Luminaria LED,Casa,2,69.9,Sudeste,Marketplace,0.0
+770,2024-10-04,Ana Souza,Tablet Lite,Eletronicos,2,1499.9,Sudeste,Loja Fisica,0.0
+771,2025-07-10,Rafael Gomes,Garrafa Termica,Casa,1,59.9,Sul,WhatsApp,0.1
+772,2024-07-02,Joao Silva,Mouse Sem Fio,Eletronicos,5,89.9,Centro-Oeste,Online,0.05
+773,2025-08-24,Diego Barbosa,Mesa Compacta,Moveis,1,649.9,Centro-Oeste,Loja Fisica,0.15
+774,2024-03-19,Isabela Costa,Livro Python Pratico,Livros,4,799.0,Sudeste,Marketplace,0.05
+775,2024-09-03,Rafael Pereira,Planner 2025,Papelaria,5,39.9,Norte,Marketplace,0.2
+776,2024-12-05,Kaique Barbosa,SSD 1TB,Eletronicos,1,459.9,Sudeste,Online,0.15
+777,2025-12-06,Yasmin Souza,Headset Gamer,Eletronicos,1,199.9,Sul,Loja Fisica,0.15
+778,2024-12-20,Ana Souza,Webcam HD,Eletronicos,2,179.9,Sudeste,Loja Fisica,0.1
+779,2024-08-25,Bruno Lima,Curso SQL Basico,Cursos,1,129.9,Centro-Oeste,Marketplace,0.0
+780,2025-09-20,Sabrina Pereira,Caneca Termica,Casa,3,84.9,Sudeste,Online,0.0
+781,2024-01-31,Thiago Santos,Camiseta Dry Fit,Moda,5,49.9,Norte,Loja Fisica,0.0
+782,2025-05-17,Gabriela Lima,Smartphone X,Eletronicos,4,2899.9,Centro-Oeste,Online,0.0
+783,2025-01-19,Larissa Costa,SSD 1TB,Eletronicos,1,459.9,Norte,Loja Física,0.0
+784,2025-11-07,Kaique Souza,Planner 2025,Papelaria,2,39.9,Sudeste,WhatsApp,0.0
+785,2024-10-29,Gabriela Barbosa,Caneca Termica,Casa,3,84.9,Sudeste,Online,0.0
+786,2024-03-25,Henrique Costa,Teclado Mecanico,Eletrônicos,1,249.9,Sul,Online,0.0
+787,29/12/2025,Thiago Costa,Livro Python Pratico,Livros,1,79.9,Sudeste,Loja Fisica,0.15
+788,2024-11-20,Julia Souza,Livro Python Pratico,Livros,2,77.5,Sudeste,WhatsApp,0.0
+789,2024-01-06,Isabela Rodrigues,Teclado Mecanico,Eletronicos,1,249.9,Nordeste,Loja Fisica,0.05
+790,2024-10-03,Carla Costa,Tenis Runner,Moda,1,299.9,Sudeste,Online,0.1
+791,2024-07-10,Larissa Rodrigues,Teclado Mecanico,Eletronicos,1,249.9,Nordeste,Online,0.15
+792,2025-07-22,Otavio Pereira,SSD 1TB,Eletronicos,2,459.9,Nordeste,Online,0.1
+793,2024-01-27,Bruno Lima,Monitor 24,Eletronicos,1,799.9,Norte,Loja Fisica,0.0
+794,2024-04-05,Sabrina Ferreira,SSD 1TB,Eletronicos,1,459.9,Sudeste,Marketplace,0.2
+795,2025-01-29,Lucas Santos,Camiseta Dry Fit,Moda,1,49.9,Sudeste,Online,0.05
+796,2025-02-01,Bruno Barbosa,Curso SQL Basico,Cursos,1,129.9,Nordeste,Online,0.0
+797,2024-09-05,Rafael Almeida,SSD 1TB,Eletronicos,5,469.1,Sudeste,Loja Fisica,0.15
+798,2025-12-02,Kaique Costa,Cadeira Office,Moveis,2,899.9,Sul,Online,0.0
+799,2024-10-02,Isabela Santos,Headset Gamer,Eletronicos,2,199.9,Sudeste,Online,0.0
+800,2024-05-29,Bruno Costa,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Loja Fisica,0.1
+801,2024-10-09,Larissa Santos,Curso SQL Basico,Cursos,3,129.9,Sudeste,Loja Fisica,0.05
+802,2024-03-19,Julia Santos,Tablet Lite,Eletronicos,1,1499.9,Centro-Oeste,Online,0.05
+803,2025-10-02,Natalia Ferreira,Luminaria LED,Casa,1,69.9,Nordeste,WhatsApp,0.0
+804,2024-07-19,Marcos Souza,Caneca Termica,Casa,3,84.9,Nordeste,Online,0.0
+805,2024-11-07,Lucas Pereira,Headset Gamer,Eletronicos,1,193.9,Nordeste,Loja Fisica,0.1
+806,2025-09-27,Kaique Lima,Camiseta Dry Fit,Moda,4,49.9,Centro-Oeste,Online,0.05
+807,2024-12-08,Larissa Gomes,Smartphone X,Eletronicos,2,2899.9,Sudeste,Loja Fisica,0.0
+808,2024-05-19,Isabela Lima,Caneca Termica,Casa,1,84.9,Sudeste,Loja Fisica,0.0
+809,2025-12-12,Felipe Rodrigues,Caneca Termica,Casa,2,84.9,Norte,Marketplace,0.1
+810,2024-06-30,Kaique Lima,Camiseta Dry Fit,Moda,2,49.9,Sudeste,Online,0.0
+811,2025-12-12,Thiago Rodrigues,Mochila Executiva,Acessorios,1,159.9,Nordeste,Loja Fisica,0.2
+812,2024-09-05,Joao Pereira,Planner 2025,Papelaria,2,40.7,Sudeste,Online,0.1
+813,2025-02-06,Julia Souza,Garrafa Termica,Casa,2,59.9,Sudeste,Online,0.15
+814,2024-07-23,Rafael Almeida,Planner 2025,Papelaria,4,39.9,Sudeste,Loja Fisica,0.0
+815,2025-11-29,Paula Silva,Cadeira Office,Moveis,4,899.9,Sudeste,WhatsApp,0.0
+816,2025-12-26,Felipe Rodrigues,Smartphone X,Eletronicos,2,2899.9,Sudeste,Online,0.0
+817,2025-12-10,Bruno Pereira,Mochila Executiva,Acessorios,1,155.1,Nordeste,Loja Fisica,0.0
+818,2024-05-22,Thiago Santos,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Marketplace,0.05
+819,2024-09-15,Vanessa Costa,Luminaria LED,Casa,2,69.9,Sudeste,Online,0.05
+820,2025-01-21,Bruno Rodrigues,Curso SQL Basico,Cursos,1,129.9,Centro-Oeste,Online,0.0
+821,2025-05-05,Rafael Pereira,Caneca Termica,Casa,1,84.9,Sul,Marketplace,0.05
+822,2025-06-02,William Pereira,SSD 1TB,Eletronicos,1,459.9,Sudeste,Loja Fisica,0.1
+823,2024-02-07,Julia Barbosa,SSD 1TB,Moda,1,469.1,Sul,Online,0.15
+824,2025-08-31,Thiago Souza,SSD 1TB,Eletronicos,1,459.9,Sudeste,Online,0.0
+825,2024-09-11,Vanessa Gomes,Monitor 24,Eletronicos,2,799.9,Sul,Loja Fisica,0.05
+826,2024-06-19,Thiago Ferreira,Tenis Runner,Moda,4,299.9,Norte,WhatsApp,0.0
+827,2025-07-30,Thiago Gomes,Mouse Sem Fio,Eletronicos,1,87.2,Sudeste,Loja Fisica,0.0
+828,2024-12-05,Larissa Souza,Livro Python Pratico,Livros,2,79.9,Sul,Online,0.0
+829,2024-04-10,Henrique Oliveira,Notebook PRO 14,Eletronicos,1,4200.0,Sul,Marketplace,0.05
+830,2025-06-15,Paula Ferreira,Webcam HD,Eletronicos,2,179.9,Sudeste,Marketplace,0.05
+831,2024-08-14,Marcos Lima,Planner 2025,Papelaria,2,39.9, Sul ,Loja Fisica,0.05
+832,2025-04-19,Vanessa Ferreira,Livro Python Pratico,Livros,2,79.9,Sudeste,Online,0.0
+833,2024-06-03,Julia Silva,Webcam HD,Eletronicos,2,179.9,Sudeste,Online,0.1
+834,2024-04-17,Isabela Pereira,Tablet Lite,Eletronicos,1,1499.9,Nordeste,Online,0.0
+835,2024-04-28,Yasmin Costa,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Loja Fisica,
+836,2024-11-15,Joao Rodrigues,Tenis Runner,Moda,2,290.9,Nordeste,Loja Fisica,0.0
+837,2025-06-17,Natalia Lima,Mesa Compacta,Moveis,1,662.9,Sudeste,Marketplace,0.05
+838,2024-04-09,Marcos Barbosa,Tablet Lite,Eletronicos,1,1499.9,Nordeste,Online,0.0
+839,2024-11-22,Bruno Santos,Smartphone X,Eletronicos,2,2899.9,Norte,WhatsApp,0.15
+840,2025-12-28,Carla Silva,Mouse Sem Fio,Eletronicos,1,89.9,Nordeste,Online,0.05
+841,2025-10-25,Carla Gomes,Camiseta Dry Fit,Moda,8,49.9,Sudeste,WhatsApp,0.0
+842,2024-09-06,Otavio Costa,Cadeira Office,Moveis,1,899.9,Norte,Online,0.1
+843,2024-06-12,Joao Almeida,SSD 1TB,Eletronicos,1,459.9,Sudeste,Online,0.0
+844,04-18-2025,Gabriela Pereira,Curso SQL Basico,Cursos,1,129.9,Nordeste,WhatsApp,0.05
+845,2024-07-09,Thiago Gomes,Cadeira Office,Moveis,1,899.9,Sudeste,Online,0.0
+846,2025-02-09,Lucas Barbosa,Curso SQL Basico,Cursos,2,129.9,Sudeste,Loja Fisica,0.05
+847,2024-07-21,Marcos Ferreira,Caneca Termica,Casa,2,84.9,Centro-Oeste,Marketplace,0.2
+848,2025-02-02,Lucas Barbosa,Curso SQL Básico,Cursos,3,129.9,Sul,Online,0.0
+849,2024-07-29,Henrique Barbosa,Mesa Compacta,Moveis,5,649.9,Nordeste,Marketplace,0.0
+850,2025-08-14,Carla Almeida,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Marketplace,0.1
+851,2025-01-09,Joao Oliveira,Cadeira office,Moveis,1,899.9,Sudeste,Online,0.0
+852,2024-04-26,Henrique Gomes,Smartphone X,Eletronicos,1,2899.9,Sudeste,WhatsApp,0.0
+853,2025-06-24,Thiago Lima,Tablet Lite,Eletronicos,1,1499.9,Nordeste,Online,0.2
+854,2025-02-01,Sabrina Pereira,Caneca Termica,Casa,8,84.9,Nordeste,Online,0.1
+855,2024-04-26,Julia Lima,Planner 2025,Papelaria,2,39.9,Sudeste,Loja Fisica,0.0
+856,2025-09-24,Eduarda Gomes,Smartphone X,Eletronicos,1,2812.9,Sudeste,Online,0.1
+857,2025-09-21,Rafael Souza,Mochila Executiva,Acessorios,1,159.9,Sudeste,Loja Fisica,0.0
+858,2024-11-16,Carla Oliveira,Headset Gamer,Eletronicos,0,199.9,Sudeste,Loja Física,0.05
+859,2024-04-29,Eduarda Lima,Mochila Executiva,Acessorios,1,159.9,Centro-Oeste,Online,0.05
+860,2025-06-07,Kaique Pereira,Headset Gamer,Eletronicos,1,199.9,Norte,Loja Fisica,0.0
+861,2024-05-21,Rafael Pereira,Caneca Termica,Casa,3,84.9,Sul,Online,0.05
+862,2024-07-09,Natalia Gomes,Curso SQL Basico,Cursos,2,129.9,Sudeste,Online,0.05
+863,2025-12-11,Thiago Costa,SSD 1TB,Eletronicos,1,459.9,Norte,Marketplace,0.05
+864,2024-06-19,Natalia Santos,SSD 1TB,Eletronicos,2,459.9,Sul,Online,0.1
+865,2024-07-10,Joao Rodrigues,Headset Gamer,Eletronicos,1,199.9,Nordeste,Online,0.0
+866,2024-02-24,Julia Silva,Caneca Termica,Casa,3,84.9,Sudeste,Online,0.05
+867,19/05/2024,Felipe Pereira,Tablet Lite,Eletronicos,1,1499.9,Nordeste,Loja Fisica,0.0
+868,2025-06-01,Thiago Rodrigues,SSD 1TB,Eletronicos,1,459.9,Sul,Online,0.05
+869,2025-12-02,Natalia Pereira,Curso SQL Basico,Cursos,2,129.9,Sul,Online,0.0
+870,2025-05-15,Eduarda Souza,Smartphone X,Eletronicos,1,2899.9,Sudeste,Loja Fisica,0.1
+871,2024-02-01,Gabriela Santos,Planner 2025,Papelaria,4,39.9,Centro-Oeste,Marketplace,0.0
+872,2024-10-08,Gabriela Almeida,Mouse Sem Fio,Eletronicos,2,89.9,Nordeste,Online,1.2
+873,2024-06-21,Marcos Ferreira,Mochila Executiva,Acessorios,2,159.9,Nordeste,Marketplace,0.1
+874,2025-07-16,Otavio Souza,Tablet Lite,Eletronicos,1,1499.9,Nordeste,WhatsApp,0.05
+875,2024-04-26,Henrique Almeida,Planner 2025,Papelaria,5,39.9,Sudeste,Loja Fisica,0.2
+876,2025-07-09,Ana Barbosa,Tenis Runner,Moda,1,299.9,Sudeste,Loja Fisica,0.05
+877,2025-07-13,Felipe Pereira,Smartphone X,Eletronicos,1,2899.9,Centro-Oeste,Online,0.05
+878,2025-10-31,Gabriela Santos,Monitor 24,Eletronicos,1,799.9,Sudeste,Online,0.0
+879,2025-04-05,Henrique Lima,Mouse Sem Fio,Eletronicos,2,89.9,Sudeste,Marketplace,0.15
+880,2025-03-25,Carla Oliveira,Teclado Mecanico,Eletronicos,4,249.9,Sudeste,Online,0.0
+881,2025-08-25,William Lima,Mesa Compacta,Moveis,1,649.9,Nordeste,Online,0.1
+882,2025-10-09,Larissa Costa,Caneca Termica,Casa,5,84.9,Sul,Marketplace,0.0
+883,2024-05-22,Felipe Oliveira,Caneca Termica,Casa,4,84.9,Centro-Oeste,Loja Fisica,0.05
+884,2025-08-06,Julia Almeida,Mouse Sem Fio,Eletronicos,2,91.7,Sul,Marketplace,0.0
+885,2025-09-03,Paula Costa,Garrafa Termica,Casa,4,59.9,Sudeste,Marketplace,0.2
+886,2025-12-21,Isabela Santos,Camiseta Dry Fit,Moda,1,49.9,Sudeste,Loja Fisica,0.1
+887,2024-09-30,Otavio Gomes,Planner 2025,Papelaria,1,39.9,Norte,Loja Fisica,0.05
+888,2024-05-18,Larissa Silva,Monitor 24,Eletronicos,1,799.9,Nordeste,Marketplace,0.05
+889,2025-11-02,Diego Barbosa,Garrafa Termica,Casa,3,59.9,Sudeste,Online,0.1
+890,2024-09-12,Diego Barbosa,Headset Gamer,Eletronicos,2,199.9,Nordeste,Marketplace,0.1
+891,2024-09-10,Vanessa Pereira,Camiseta Dry Fit,Moda,5,49.9,Sudeste,Online,0.0
+892,2024-05-25,Rafael Gomes,Tablet Lite,Eletronicos,1,1499.9,Sul,Loja Fisica,0.05
+893,2025-10-04,Larissa Pereira,Garrafa Termica,Casa,6,59.9,Centro-Oeste,Marketplace,0.0
+894,2024-03-18,Thiago Souza,Smartphone X,Eletronicos,1,2899.9,Sudeste,WhatsApp,0.0
+895,2025-06-11,Yasmin Santos,Livro Python Pratico,Livros,1,79.9,Sudeste,Online,0.15
+896,2025-04-10,Natalia Lima,Tenis Runner,Moda,1,290.9,Nordeste,WhatsApp,0.0
+897,2024-01-03,Yasmin Souza,Planner 2025,Papelaria,3,39.9,Sudeste,Online,0.1
+898,2025-10-12,Vanessa Barbosa,Smartphone X,Eletronicos,2,2899.9,Sudeste,Online,0.05
+899,2024-03-05,Paula Pereira,Tenis Runner,Moda,2,305.9,Sudeste,Online,0.05
+900,2025-03-15,Felipe Rodrigues,Mesa Compacta,Móveis,1,649.9,Sul,Online,0.0
+901,2024-11-26,Isabela Lima,Garrafa Termica,Casa,1,59.9,Norte,Marketplace,0.15
+902,2025-08-14,Diego Ferreira,SSD 1TB,Eletronicos,1,459.9,Nordeste,Online,0.1
+903,2024-12-17,Vanessa Silva,Tablet Lite,Eletronicos,1,1499.9,Nordeste,Loja Fisica,0.0
+904,2024-04-11,Thiago Rodrigues,Mouse Sem Fio,Eletronicos,4,89.9,Nordeste,Online,0.2
+905,2024-05-07,Eduarda Rodrigues,Notebook Pro 14,Eletronicos,1,4200.0,Nordeste,Online,0.0
+906,2024-01-01,Larissa Oliveira,Smartphone X,Eletronicos,1,2899.9,Sudeste,Loja Fisica,0.05
+907,2025-10-27,Isabela Costa,Headset Gamer,Eletronicos,3,203.9,Norte,Marketplace,0.05
+908,2024-04-05,Thiago Lima,Garrafa Termica,Casa,8,61.1,Sudeste,Online,0.05
+909,2024-03-25,Julia Gomes,Garrafa Termica,Casa,1,59.9,Sudeste,Online,0.0
+910,2024-02-23,Kaique Gomes,Cadeira Office,Moveis,1,872.9,Sul,Online,0.1
+911,2025-12-17,Gabriela Pereira,Mochila Executiva,Acessorios,1,159.9,Nordeste,Online,0.0
+912,2025-12-21,Carla Silva,Teclado Mecanico,Eletronicos,1,249.9,Centro-Oeste,Online,0.0
+913,2025-05-03,Bruno Costa,Mesa Compacta,Moveis,3,662.9,Sudeste,Online,0.0
+914,2024-08-19,Otavio Gomes,Planner 2025,Papelaria,2,39.9,Centro-Oeste,Online,0.0
+915,2024-01-10,Lucas Barbosa,Smartphone X,Eletronicos,1,2899.9,Sudeste,Online,0.0
+916,2024-05-03,Larissa Barbosa,Camiseta Dry Fit,Moda,5,49.9,Sudeste,Online,0.2
+917,2025-05-04,Bruno Oliveira,Headset Gamer,Eletronicos,3,199.9,Nordeste,Marketplace,0.0
+918,2024-04-01,Yasmin Souza,Livro Python Pratico,Livros,2,79.9,Sul,Marketplace,0.1
+919,2024-11-16,Julia Santos,Monitor 24,Eletronicos,1,799.9,Centro-Oeste,Online,0.0
+920,2025-01-26,DIEGO GOMES,Headset Gamer,Eletronicos,1,199.9,Nordeste,Loja Fisica,0.0
+921,2024-03-11,Otavio Ferreira,Headset Gamer,Eletronicos,1,199.9,Sudeste,Loja Fisica,0.05
+922,2025-09-16,Thiago Costa,Notebook Pro 14,Eletronicos,1,4074.0,Nordeste,Online,0.0
+923,2024-12-25,Yasmin Oliveira,Smartphone X,Eletronicos,1,2812.9,Sul,WhatsApp,0.0
+924,2025-02-25,Sabrina Gomes,Headset Gamer,Eletronicos,1,199.9,Sudeste,WhatsApp,0.0
+925,2024-08-10,Bruno Souza,Smartphone X,Eletronicos,1,2899.9,Sul,Online,0.1
+926,2024-05-06,Rafael Barbosa,Headset Gamer,Eletronicos,2,199.9,Nordeste,Online,0.2
+927,25/12/2024,Larissa Lima,Livro Python Pratico,Livros,3,79.9,Sudeste,Marketplace,0.0
+928,2024-09-10,Henrique Gomes,Headset Gamer,Eletronicos,1,199.9,Sudeste,Online,0.0
+929,2024-09-11,Paula Ferreira,Teclado Mecanico,Eletronicos,2,249.9,Sudeste,Online,0.0
+930,2025-09-14,Isabela Barbosa,Caneca Termica,Casa,4,84.9,Sudeste,Loja Fisica,0.0
+931,2025-11-05,Isabela Oliveira,Notebook Pro 14,Eletronicos,1,4200.0,Sudeste,Marketplace,0.0
+932,2025-09-13,Otavio Oliveira,Webcam HD,Eletronicos,3,179.9,Centro-Oeste,Loja Fisica,0.0
+933,2024-10-29,Thiago Silva,Livro Python Pratico,Livros,1,79.9,Norte,Loja Fisica,0.0
+934,2025-05-21,Kaique Souza,Luminaria LED,Casa,1,69.9,Nordeste,Online,0.0
+935,2025-05-26,Thiago Ferreira,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.0
+936,2025-06-24,Lucas Lima,Teclado Mecanico,Eletronicos,1,249.9,Sul,Online,0.1
+937,2024-05-15,Kaique Ferreira,Camiseta Dry Fit,Moda,3,49.9,Sudeste,Online,0.0
+938,2025-01-09,Paula Gomes,Curso SQL Basico,Cursos,1,132.5,Sudeste,Marketplace,0.0
+939,2025-04-27,Bruno Silva,Cadeira office,Moveis,2,899.9,Sudeste,Marketplace,0.0
+940,2024-03-10,Lucas Santos,Planner 2025,Papelaria,1,39.9,Sudeste,Marketplace,0.0
+941,2024-02-10,Ana Pereira,Mesa Compacta,Moveis,4,649.9,Sudeste,Loja Fisica,0.0
+942,2024-10-20,Thiago Barbosa,Webcam HD,Eletronicos,1,179.9,Sudeste,Marketplace,0.0
+943,2025-03-01,Larissa Barbosa,Webcam HD,Eletronicos,3,179.9,Sudeste,Marketplace,0.2
+944,2024-03-25,Thiago Almeida,Livro Python Pratico,Livros,2,77.5,Sul,Marketplace,0.0
+945,2025-09-22,Diego Santos,SSD 1TB,Eletronicos,1,459.9,Sudeste,Online,0.1
+946,2024-11-13,Bruno Almeida,Teclado Mecanico,Eletronicos,2,249.9,Nordeste,Loja Fisica,0.05
+947,2024-06-08,Paula Lima,Mesa Compacta,Moveis,1,662.9,Sudeste,Loja Fisica,0.0
+948,2025-08-23,Thiago Gomes,Livro Python Pratico,Livros,2,79.9,Sul,Online,0.05
+949,2024-11-13,William Pereira,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Online,0.0
+950,2024-02-29,Gabriela Souza,Luminaria LED,Casa,1,69.9,Norte,Online,0.2
+951,2024-04-28,Marcos Ferreira,Curso SQL Basico,Cursos,2,129.9,Sul,Loja Fisica,0.0
+952,2024-02-26,Isabela Gomes,Caneca Termica,Casa,4,84.9,Sudeste,WhatsApp,
+953,2024-05-02,Lucas Barbosa,Cadeira Office,Moveis,2,899.9,Norte,Marketplace,0.0
+954,2025-12-19,Lucas Costa,Headset Gamer,Eletronicos,2,199.9,Sudeste,Online,0.05
+955,2024-12-21,Otavio Almeida,Tablet Lite,Eletronicos,1,1499.9,Sul,Online,0.1
+956,2024-06-19,Julia Costa,Garrafa Termica,Casa,2,59.9,Nordeste,Loja Fisica,0.05
+957,2024-04-30,,Garrafa Termica,Casa,1,59.9,Norte,Online,0.05
+958,2024-10-05,Otavio Souza,Curso SQL Basico,Cursos,2,129.9,Sudeste,WhatsApp,0.1
+959,2025-12-30,Rafael Gomes,Garrafa Termica,Casa,2,59.9,Norte,Loja Fisica,0.0
+960,2025-05-23,Marcos Almeida,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Loja Fisica,0.0
+961,2024-02-26,Natalia Ferreira,Tenis Runner,Moda,2,299.9,Sul,Loja Fisica,0.15
+962,2025-01-11,Eduarda Santos,Cadeira Office,Moveis,2,899.9,Nordeste,Loja Fisica,0.05
+963,2025-08-10,Vanessa Barbosa,Monitor 24,Eletronicos,1,799.9,Sudeste,Online,0.05
+964,2024-08-21,Yasmin Almeida,Monitor 24,Eletronicos,2,799.9,Nordeste,Online,0.0
+965,2024-02-15,Lucas Oliveira,Notebook Pro 14,Eletronicos,1,4200.0,Centro-Oeste,Loja Fisica,0.0
+966,2025-04-28,JULIA PEREIRA,Mouse Sem Fio,Eletronicos,3,89.9,Centro-Oeste,Loja Fisica,0.0
+967,2024-07-02,Ana Almeida,Headset Gamer,Eletronicos,1,199.9,Sul,Online,0.05
+968,2024-08-17,Joao Oliveira,Curso SQL Basico,Cursos,1,129.9,Nordeste,WhatsApp,0.05
+969,2024-11-23,Henrique Souza,Curso SQL Basico,Cursos,1,129.9,Sudeste,Online,0.0
+970,2025-01-16,Carla Almeida,Planner 2025,Papelaria,1,38.7,Nordeste,Loja Física,0.1
+971,2024-07-02,Gabriela Almeida,Mouse Sem Fio,Eletronicos,1,89.9,Norte,Online,0.15
+972,2025-02-14,Bruno Rodrigues,Mouse Sem Fio,Eletronicos,2,87.2,Sul,Online,0.0
+973,2024-11-14,Joao Souza,Mochila Executiva,Acessorios,1,159.9,Sudeste,Loja Fisica,0.0
+974,2025-04-12,Lucas Lima,SSD 1TB,Eletrônicos,1,469.1,Sudeste,Online,0.1
+975,2024-10-25,Rafael Santos,Mesa Compacta,Moveis,5,649.9,Sul,Loja Fisica,0.1
+976,2024-09-05,Marcos Lima,Caneca Termica,Casa,3,84.9,Sudeste,Marketplace,0.0
+977,2025-05-20,Felipe Barbosa,Planner 2025,Papelaria,1,39.9,Sudeste,Marketplace,0.05
+978,2024-09-08,Diego Silva,SSD 1TB,Eletrônicos,1,459.9,Centro-Oeste,Marketplace,0.05
+979,2024-01-25,Gabriela Almeida,Curso SQL Basico,Cursos,1,129.9,Norte,WhatsApp,0.0
+980,2025-10-13,William Silva,Tenis Runner,Moda,1,299.9,Sudeste,WhatsApp,0.05
+981,2024-01-02,Vanessa Pereira,Camiseta Dry Fit,Moda,4,49.9,Sudeste,Marketplace,0.05
+982,2024-04-16,Felipe Almeida,Mochila Executiva,Acessorios,2,159.9,Nordeste,Online,0.0
+983,2025-03-05,Natalia Silva,Luminaria LED,Casa,2,69.9,Sudeste,Online,0.0
+984,2025-12-29,Henrique Souza,Headset Gamer,Eletronicos,1,199.9,Nordeste,Loja Fisica,0.0
+985,2024-08-25,Otavio Pereira,Mouse Sem Fio,Eletronicos,1,89.9,Sul,Online,0.0
+986,2025-04-14,Yasmin Souza,Tenis Runner,Moda,2,290.9,Sudeste,Loja Fisica,0.0
+987,2024-04-07,Otavio Costa,Planner 2025,Papelaria,5,39.9,Sul,Online,0.05
+988,2024-03-17,Rafael Ferreira,Livro Python Pratico,Livros,1,79.9,Sul,Online,0.2
+989,2025-03-21,Vanessa Costa,Mouse Sem Fio,Eletronicos,4,89.9,Sudeste,WhatsApp,0.0
+990,2024-10-25,Henrique Lima,Luminaria LED,Casa,2,69.9,Sudeste,WhatsApp,0.0
+991,2025-12-18,Yasmin Lima,Livro Python Pratico,Livros,2,79.9,Norte,Online,0.0
+992,2025-04-08,Henrique Oliveira,Camiseta Dry Fit,Moda,4,49.9,Sudeste,WhatsApp,0.0
+993,2024-07-26,Diego Ferreira,Teclado Mecânico,Eletronicos,1,249.9,Sul,Online,0.2
+994,2024-06-08,Carla Costa,Monitor 24,Eletronicos,1,799.9,Sudeste,Online,0.05
+995,2025-04-22,Joao Pereira,Smartphone X,Eletronicos,2,2899.9,Nordeste,Online,0.0
+996,2025-07-02,Julia Oliveira,Monitor 24,Eletronicos,1,799.9,Sudeste,Online,0.0
+997,2024-11-11,Marcos Santos,Smartphone X,Eletronicos,3,2899.9,Nordeste,Loja Fisica,0.1
+998,2024-04-02,Eduarda Gomes,Monitor 24,Eletronicos,2,799.9,Sudeste,Loja Fisica,0.0
+999,2025-12-22,William Ferreira,Mochila Executiva,Acessorios,2,159.9,Norte,Online,0.2
+1000,2024-08-08,Joao Costa,Mouse Sem Fio,Eletronicos,6,89.9,Sudeste,Loja Fisica,0.1
+1001,2025-12-29,Gabriela Lima,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Online,0.2
+1002,2025-06-09,Ana Gomes,Livro Python Pratico,Livros,1,79.9,Sul,Loja Fisica,0.0
+1003,2024-09-23,Eduarda Silva,Mochila Executiva,Acessorios,1,159.9,Sul,Online,0.1
+1004,2025-04-08,Paula Barbosa,Livro Python Pratico,Livros,1,79.9,Sul,Loja Fisica,0.0
+1005,2024-09-12,Carla Rodrigues,SSD 1TB,Eletronicos,3,459.9,Centro-Oeste,Online,0.0
+1006,2024-05-23,Carla Silva,Monitor 24,Eletronicos,2,799.9,Sudeste,Online,0.0
+1007,2024-08-15,Diego Oliveira,Mouse Sem Fio,Eletronicos,2,89.9,Sul,Loja Fisica,0.0
+1008,2025-01-16,Vanessa Gomes,Livro Python Pratico,Livros,1,79.9,Sudeste,WhatsApp,0.0
+1009,2025-08-19,Rafael Santos,Teclado Mecanico,Eletronicos,2,242.4,Centro-Oeste,Online,0.0
+1010,2024-01-23,Bruno Oliveira,Teclado Mecanico,Eletronicos,2,249.9,Nordeste,Online,0.05
+1011,2024-05-11,Bruno Lima,Smartphone X,Eletronicos,1,2899.9,Sudeste,Online,0.1
+1012,2024-02-13,Marcos Silva,Monitor 24,Eletronicos,1,799.9,Sudeste,Online,0.0
+1013,2025-08-10,Larissa Barbosa,Cadeira Office,Moveis,3,917.9,Centro-Oeste,Loja Fisica,0.15
+1014,2025-05-23,Lucas Pereira,Livro Python Pratico,Livros,1,79.9,Sudeste,Online,0.2
+1015,2024-06-25,Julia Oliveira,Curso SQL Basico,Cursos,1,132.5,Centro-Oeste,Online,0.0
+1016,2024-10-08,Henrique Rodrigues,Cadeira Office,Moveis,1,899.9,Sudeste,Online,0.0
+1017,2024-02-05,Sabrina Ferreira,Headset Gamer,Eletronicos,1,199.9,Centro-Oeste,Online,0.0
+1018,2024-09-08,Thiago Santos,Caneca Termica,Casa,6,82.35,,Loja Fisica,0.15
+1019,2025-02-25,Paula Rodrigues,Tablet Lite,Eletronicos,2,1529.9,Sul,Online,0.0
+1020,2024-03-30,Henrique Pereira,Mouse Sem Fio,Eletronicos,1,89.9,Centro-Oeste,Online,0.1
+1021,2025-03-05,Felipe Gomes,Headset Gamer,Eletronicos,5,199.9,Centro-Oeste,Loja Fisica,0.05
+1022,2024-09-12,Thiago Almeida,Webcam HD,Eletronicos,1,179.9,Sul,Marketplace,0.05
+1023,2025-01-26,William Lima,Notebook Pro 14,Eletronicos,1,4284.0,Sudeste,Loja Fisica,0.05
+1024,2025-07-11,Natalia Lima,Tablet Lite,Eletronicos,2,1499.9,Sudeste,Marketplace,0.0
+1025,2025-05-29,Joao Pereira,Planner 2025,Papelaria,2,39.9,Sudeste,Loja Fisica,0.1
+1026,2024-07-03,Lucas Lima,Garrafa Termica,Casa,5,59.9,Nordeste,Online,0.05
+1027,2024-08-12,Lucas Santos,Caneca Termica,Casa,4,84.9,Sudeste,Online,0.2
+1028,2025-04-28,Otavio Lima,Mouse Sem Fio,Eletronicos,1,89.9,Sudeste,Marketplace,0.05
+1029,2024-08-26,Eduarda Souza,Planner 2025,Papelaria,-1,39.9,Sudeste,Online,0.15
+1030,2025-11-03,Gabriela Santos,Luminaria LED,Casa,4,69.9,Sul,Online,0.0
+1031,2024-02-27,Gabriela Ferreira,SSD 1TB,Eletronicos,4,459.9,Sudeste,Online,0.05
+1032,2024-12-29,Eduarda Costa,Livro Python Pratico,Livros,1,79.9,Sudeste,,0.0
+1033,2025-08-29,Joao Barbosa,Luminaria LED,Casa,1,69.9,Centro-Oeste,Loja Física,0.0
+1034,2025-08-28,Lucas Barbosa,Tenis Runner,Moda,1,299.9,Sul,Online,0.0
+1035,2025-08-04,Rafael Costa,Tenis Runner,Moda,5,299.9,Nordeste,Loja Fisica,0.1
+1036,2024-07-11,Natalia Almeida,Planner 2025,Papelaria,4,39.9,Norte,Loja Fisica,0.1
+1037,2024-06-28,Natalia Silva,Mochila Executiva,Acessorios,3,159.9,Norte,Marketplace,0.05
+1038,2024-02-27,Gabriela Ferreira,Teclado Mecanico,Eletrônicos,1,249.9,Sul,Online,0.0
+1039,2024-01-21,Otavio Rodrigues,Luminaria LED,Casa,2,69.9,Sudeste,Online,0.0
+1040,2024-12-05,Sabrina Oliveira,Notebook Pro 14,Eletronicos,1,4200.0,Sudeste,Loja Fisica,0.0
+1041,2024-12-14,William Costa,Headset Gamer,Eletrônicos,1,199.9,Sul,WhatsApp,0.1
+1042,2024-03-01,Lucas Costa,Camiseta Dry Fit,Moda,2,49.9,Centro-Oeste,Loja Fisica,0.1
+1043,2025-12-22,Diego Souza,Planner 2025,Papelaria,2,39.9,Sudeste,Online,0.0
+1044,2025-01-08,Bruno Lima,Webcam HD,Eletronicos,1,179.9,Sudeste,Online,0.1
+1045,2025-08-23,Carla Lima,Livro Python Pratico,Livros,1,79.9,Sul,Online,0.0
+1046,2024-11-26,Diego Costa,Mochila Executiva,Acessorios,2,159.9,Sul,Online,0.1
+1047,2025-10-16,Natalia Gomes,Curso SQL Basico,Cursos,3,129.9,Nordeste,Marketplace,0.05
+1048,2024-06-27,William Almeida,Camiseta Dry Fit,Moda,2,49.9,Sudeste,Marketplace,0.05
+1049,2024-12-31,Gabriela Gomes,Caneca Termica,Casa,1,84.9,Nordeste,Loja Fisica,0.0
+1050,2024-06-28,Kaique Santos,Planner 2025,Papelaria,2,39.9,Centro-Oeste,Online,0.0
+1051,2024-05-10,Eduarda Barbosa,Mochila Executiva,Acessorios,3,159.9,Sudeste,Online,0.1
+1052,2025-12-19,Rafael Pereira,Notebook PRO 14,Eletronicos,2,4200.0,Nordeste,Loja Fisica,0.15
+1053,2024-02-03,Eduarda Ferreira,Planner 2025,Papelaria,3,39.9,Sudeste,Online,0.05
+1054,2025-09-18,Gabriela Gomes,Camiseta Dry Fit,Moda,2,49.9,Sudeste,Online,0.1
+1055,2024-04-16,Natalia Costa,Planner 2025,Papelaria,1,39.9,Nordeste,Marketplace,0.05
+1056,2024-03-20,Gabriela Lima,Camiseta Dry Fit,Moda,4,48.4,Sul,Marketplace,0.05
+1057,2024-06-20,desconhecido,Camiseta Dry Fit,Moda,1,49.9,Centro-Oeste,Online,0.0
+1058,2025-04-02,Lucas Santos,Camiseta Dry Fit,Moda,3,49.9,Sul,Loja Fisica,0.0
+1059,2024-09-12,William Souza,Mesa Compacta,Moveis,1,649.9, Sudeste ,Online,0.2
+1060,2024-09-19,Carla Barbosa,Tenis Runner,Moda,1,299.9,Sul,Online,0.1
+1061,2024-02-19,Kaique Rodrigues,Notebook Pro 14,Eletrônicos,2,4200.0,Sul,WhatsApp,0.0
+1062,2024-06-19,Larissa Rodrigues,Curso SQL Basico,Cursos,2,132.5,Sudeste,Online,0.1
+1063,2024-12-25,Paula Pereira,Livro Python Pratico,Livros,3,79.9,Sudeste,Online,0.0
+1064,2025-05-05,Rafael Gomes,Monitor 24,Eletronicos,2,799.9,Sudeste,Online,0.0
+1065,2024-06-15,Marcos Souza,Luminaria LED,Casa,4,67.8,Sudeste,Online,0.05
+1066,2024-10-28,Lucas Lima,Mouse Sem Fio,Eletronicos,2,89.9,Sudeste,Online,0.1
+1067,2024-04-17,Bruno Lima,Garrafa Termica,Casa,2,58.1,Centro-Oeste,Online,0.1
+1068,2025-01-19,Eduarda Barbosa,Cadeira Office,Moveis,2,899.9,Sul,Marketplace,0.0
+1069,2025-07-14,Bruno Lima,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Marketplace,0.0
+1070,2025-09-20,Natalia Barbosa,Caneca Termica,Casa,5,84.9,Nordeste,Loja Fisica,0.0
+1071,2025-03-17,Thiago Costa,Notebook Pro 14,Eletronicos,3,4200.0,Sul,Marketplace,0.0
+1072,2025-03-20,Eduarda Silva,Caneca Termica,Casa,2,84.9,Sudeste,Online,0.1
+1073,2024-12-05,Felipe Oliveira,Monitor 24,Eletronicos,1,799.9,Nordeste,Online,0.0
+1074,2025-12-14,Paula Barbosa,Curso SQL Básico,Cursos,3,129.9,Norte,Online,0.05
+1075,2024-09-28,Vanessa Santos,SSD 1TB,Eletronicos,1,446.1,Centro-Oeste,Loja Fisica,0.0
+1076,2024-08-31,Carla Silva,Mochila Executiva,Acessorios,2,159.9,Sudeste,Loja Fisica,0.1
+1077,2025-08-08,Paula Rodrigues,Livro Python Pratico,Livros,1,79.9,Sudeste,Online,0.0
+1078,2024-02-25,Julia Silva,Headset Gamer,Eletronicos,3,199.9,Sul,Loja Fisica,0.0
+1079,2024-03-30,Isabela Gomes,Curso SQL Basico,Cursos,2,129.9,Sudeste,Loja Fisica,0.1
+1080,2025-05-06,Felipe Souza,Caneca Termica,Casa,1,84.9,Sudeste,Marketplace,0.0
+1081,2024-07-30,Eduarda Gomes,Notebook Pro 14,Eletronicos,1,4200.0,Sul,Online,0.05
+1082,2024-03-24,Natalia Souza,Mochila Executiva,Acessorios,2,159.9,Nordeste,Online,0.05
+1083,2025-02-11,Natalia Rodrigues,Mochila Executiva,Acessorios,1,159.9,Nordeste,Marketplace,0.05
+1084,2024-04-03,Thiago Almeida,Garrafa Termica,Casa,4,59.9,Nordeste,Online,0.1
+1085,2024-07-08,Julia Pereira,Livro Python Pratico,Livros,2,81.5,Centro-Oeste,Online,0.0
+1086,2024-07-10,Marcos Silva,Tenis Runner,Moda,1,299.9,Centro-Oeste,Online,0.05
+1087,2025-03-26,Marcos Santos,Garrafa Termica,Casa,2,59.9,Sul,Online,0.1
+1088,2024-10-02,Rafael Silva,Luminaria LED,Casa,1,69.9,Sul,Online,0.2
+1089,2025-12-14,Vanessa Souza,Headset Gamer,Eletronicos,1,199.9,Nordeste,Online,0.0
+1090,2025-11-15,Julia Almeida,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Marketplace,0.0
+1091,2025-08-26,Gabriela Almeida,Curso SQL Basico,Cursos,2,129.9,Nordeste,Online,0.0
+1092,2025-01-31,Otavio Pereira,Mouse Sem Fio,Eletronicos,2,89.9,Sudeste,Loja Fisica,0.1
+1093,2025-12-04,Natalia Ferreira,SSD 1TB,Eletronicos,2,459.9,Centro-Oeste,Online,0.05
+1094,2025-05-02,Isabela Souza,Luminaria LED,Casa,1,69.9,Sul,WhatsApp,0.0
+1095,2024-02-05,Otavio Ferreira,Livro Python Pratico,Livros,2,79.9,Sul,WhatsApp,0.1
+1096,2025-08-08,Vanessa Ferreira,Webcam HD,Eletronicos,2,179.9,Nordeste,Marketplace,0.15
+1097,2024-05-03,Marcos Costa,Headset Gamer,Eletronicos,2,199.9,Sudeste,Online,0.0
+1098,2024-08-04,Felipe Costa,Cadeira Office,Moveis,4,899.9,Sul,Online,0.15
+1099,2025-03-09,Bruno Gomes,Mouse Sem Fio,Eletronicos,1,89.9,Centro-Oeste,Marketplace,0.05
+1100,2024-07-25,Thiago Costa,Curso SQL Basico,Cursos,1,129.9,Sudeste,Online,0.0
+1101,2024-09-21,Joao Barbosa,Caneca Termica,Casa,5,84.9,Nordeste,Loja Fisica,0.0
+1102,2024-03-30,Kaique Almeida,Teclado Mecanico,Eletronicos,1,249.9,Norte,Marketplace,0.0
+1103,2025-07-19,Joao Santos,Livro Python Pratico,Livros,5,81.5,Nordeste,Online,0.1
+1104,2025-04-14,Lucas Barbosa,Webcam HD,Eletronicos,3,183.5,Sudeste,Marketplace,0.0
+1105,2025-08-24,Otavio Pereira,Caneca Termica,Casa,1,84.9,Centro-Oeste,Online,0.0
+1106,2025-02-28,Diego Costa,Monitor 24,Eletronicos,1,799.9,Nordeste,Online,0.2
+1107,2025-08-25,Rafael Souza,Planner 2025,Papelaria,1,38.7,Sul,Marketplace,0.0
+1108,2025-07-30,Carla Santos,Monitor 24,Eletronicos,1,-799.9,Nordeste,Loja Fisica,0.15
+1109,2024-12-18,Larissa Santos,SSD 1TB,Eletronicos,3,459.9,Sudeste,Loja Fisica,0.1
+1110,2025-11-01,Natalia Ferreira,Livro Python Pratico,Livros,1,79.9,Sudeste,Online,0.0
+1111,2025-04-29,Ana Costa,Caneca Termica,Casa,3,84.9,Sul,Online,0.1
+1112,2025-02-16,Diego Ferreira,Garrafa Termica,Casa,2,59.9,Sudeste,Loja Fisica,0.0
+1113,2025-11-28,William Pereira,Caneca Termica,Casa,1,84.9,,Online,0.0
+1114,2025-02-09,Joao Barbosa,Mouse Sem Fio,Eletronicos,3,89.9,Nordeste,WhatsApp,0.15
+1115,2024-02-20,Yasmin Rodrigues,Luminaria LED,Casa,1,67.8,Sudeste,Online,0.0
+1116,2025-01-16,Lucas Lima,Garrafa Termica,Casa,3,59.9,Sudeste,Online,0.0
+1117,2024-11-14,Henrique Rodrigues,Mochila Executiva,Acessorios,1,159.9,Sudeste,Online,0.1
+1118,2024-08-21,Diego Santos,Monitor 24,Eletronicos,1,799.9,Nordeste,Loja Fisica,0.1
+1119,2024-11-24,Henrique Barbosa,Smartphone X,Eletronicos,1,2899.9,Sul,Loja Fisica,0.0
+1120,2025-09-11,Thiago Souza,Curso SQL Basico,Cursos,1,129.9,Sudeste,Online,0.2
+1121,2025-03-28,Felipe Pereira,Mesa Compacta,Moveis,1,649.9,Sudeste,Marketplace,0.1
+1122,2025-06-12,Julia Silva,Tablet Lite,Eletronicos,2,1499.9,Sudeste,Loja Fisica,0.0
+1123,2024-06-11,Bruno Santos,Webcam HD,Eletronicos,1,179.9,Sul,Online,0.2
+1124,2025-02-17,Diego Almeida,Webcam HD,Eletronicos,2,179.9,Sudeste,Online,0.0
+1125,2024-01-30,Eduarda Oliveira,Planner 2025,Papelaria,2,39.9,Sudeste,Online,0.35
+1126,2024-02-29,Gabriela Silva,Mesa Compacta,Moveis,4,649.9,Sudeste,Online,0.05
+1127,2024-02-21,Julia Barbosa,Smartphone X,Eletronicos,5,2899.9,Sudeste,Online,0.05
+1128,2024-10-07,Julia Rodrigues,Mesa Compacta,Moveis,4,-649.9,Nordeste,Loja Fisica,0.0
+1129,2025-02-10,Thiago Souza,Webcam HD,Eletronicos,2,174.5,Sudeste,Loja Fisica,0.15
+1130,2024-09-04,Julia Rodrigues,Notebook PRO 14,Eletronicos,1,4200.0,Nordeste,WhatsApp,0.0
+1131,2025-04-01,Eduarda Rodrigues,Caneca Termica,Casa,1,84.9,Nordeste,Online,0.0
+1132,2025-07-18,Julia Lima,Planner 2025,Papelaria,5,38.7,Sul,Online,0.0
+1133,2024-09-21,Yasmin Barbosa,Cadeira Office,Moveis,2,899.9,Sul,Online,0.0
+1134,2024-10-18,Lucas Pereira,Teclado Mecanico,Eletronicos,2,249.9,Norte,Loja Fisica,0.0
+1135,2024-06-15,Rafael Oliveira,Mouse Sem Fio,Eletronicos,5,89.9,,WhatsApp,0.0
+1136,2025-10-24,Gabriela Gomes,Luminaria LED,Casa,1,69.9,Sul,Marketplace,0.0
+1137,2024-10-02,Thiago Pereira,Mesa Compacta,Moveis,2,649.9,Sudeste,Online,0.1
+1138,2024-01-21,Vanessa Silva,Webcam HD,Eletronicos,1,179.9,Sul,Online,0.0
+1139,2024-05-15,Thiago Costa,Tablet Lite,Eletronicos,1,1454.9,Sudeste,Online,0.2
+1140,2024-01-09,Gabriela Santos,Caneca Termica,Casa,1,84.9,Sudeste,WhatsApp,0.1
+1141,2024-11-08,William Barbosa,Caneca Termica,Casa,3,84.9,Sudeste,Loja Fisica,0.0
+1142,2025-03-09,Kaique Lima,Garrafa Termica,Casa,4,59.9,Sudeste,Online,0.05
+1143,2024-09-15,Felipe Rodrigues,Smartphone X,Eletronicos,3,2899.9,Sudeste,Online,0.2
+1144,2025-11-24,Otavio Ferreira,Mochila Executiva,Acessorios,1,159.9,Sudeste,Online,0.1
+1145,2025-08-21,Carla Silva,Livro Python Pratico,Livros,0,79.9,Sudeste,Online,0.1
+1146,2025-11-09,Julia Almeida,Webcam HD,Eletronicos,1,179.9,Sudeste,Online,0.0
+1147,2025-09-15,Isabela Santos,Caneca Termica,Casa,1,84.9,Nordeste,Online,0.15
+1148,2025-05-08,Bruno Lima,Monitor 24,Eletronicos,2,799.9,Nordeste,Loja Fisica,0.0
+1149,17/10/2025,Joao Santos,Garrafa Termica,Casa,-1,59.9,Nordeste,Loja Fisica,0.15
+1150,2025-11-02,William Gomes,Garrafa Termica,Casa,3,59.9,Nordeste,Online,0.0
+1151,07-11-2024,Diego Almeida,Mochila Executiva,Acessorios,2,159.9,Nordeste,Loja Fisica,0.1
+1152,2024-02-28,Sabrina Pereira,Luminaria LED,Casa,1,69.9,Sul,Loja Fisica,0.0
+1153,2025-11-28,Diego Barbosa,Camiseta Dry Fit,Moda,3,49.9,Sudeste,Marketplace,0.15
+1154,2025-11-02,Natalia Santos,Notebook PRO 14,Eletronicos,1,4200.0,Sudeste,Loja Fisica,0.0
+1155,2025-03-04,KAIQUE PEREIRA,Garrafa Termica,Casa,2,59.9,Nordeste,Online,0.2
+1156,2025-08-20,William Ferreira,Mouse Sem Fio,Eletrônicos,3,89.9,Centro-Oeste,Online,0.0
+1157,2024-12-17,Yasmin Barbosa,Mesa Compacta,Moveis,1,649.9,Sudeste,Online,0.2
+1158,2025-12-03,Paula Gomes,Luminaria LED,Casa,1,69.9,Nordeste,Online,0.1
+1159,2025-11-18,Julia Almeida,Tablet Lite,Eletronicos,2,1499.9,Norte,Online,0.1
+1160,2024-06-23,Vanessa Almeida,mochila executiva,Acessorios,1,159.9,Nordeste,Loja Fisica,0.0
+1161,2024-10-27,Carla Rodrigues,Cadeira office,Livros,1,899.9,Sul,,0.1
+1162,2024-09-21,Yasmin Almeida,Headset Gamer,Eletronicos,3,199.9,Nordeste,Online,0.05
+1163,2025-11-27,Joao Gomes,Cadeira Office,Moveis,1,899.9,Sul,WhatsApp,0.0
+1164,2024-08-15,Julia Oliveira,Teclado Mecanico,Eletronicos,1,254.9,Centro-Oeste,Loja Fisica,0.1
+1165,2025-03-06,Joao Lima,mochila executiva,Acessorios,1,155.1,Sudeste,Online,0.0
+1166,2025-08-22,Isabela Rodrigues,Garrafa Termica,Casa,5,59.9,Sudeste,Loja Fisica,0.0
+1167,2025-04-26,Ana Gomes,Monitor 24,Eletronicos,1,775.9,Sudeste,Marketplace,0.05
+1168,2025-08-17,Sabrina Souza,Planner 2025,Papelaria,1,39.9,Sudeste,WhatsApp,0.05
+1169,2024-07-18,Otavio Souza,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Online,0.15
+1170,2025-06-26,Isabela Pereira,Livro Python Pratico,Livros,1,79.9,Sudeste,Loja Fisica,0.05
+1171,2024-06-03,Diego Oliveira,Mouse Sem Fio,Eletronicos,3,87.2,Norte,Online,0.0
+1172,2025-02-23,Rafael Rodrigues,Camiseta Dry Fit,Moda,4,49.9,Nordeste,Marketplace,0.0
+1173,2024-11-19,William Costa,Headset Gamer,Eletronicos,1,199.9, Sudeste ,Online,0.05
+1174,2025-05-14,Joao Gomes,Teclado Mecanico,Eletronicos,5,249.9,Norte,Online,0.0
+1175,2024-11-16,Thiago Silva,Cadeira Office,Moveis,1,899.9,Sul,Loja Fisica,0.05
+1176,2025-04-07,Henrique Oliveira,Notebook Pro 14,Eletrônicos,1,4200.0,Nordeste,Online,0.05
+1177,2025-08-13,Eduarda Rodrigues,Cadeira Office,Moveis,1,899.9,Sul,Online,0.1
+1178,2024-05-12,Sabrina Pereira,Teclado Mecanico,Eletronicos,1,249.9,Nordeste,Online,0.1
+1179,2025-02-17,Larissa Rodrigues,Curso SQL Basico,Cursos,2,129.9,Sul,Loja Fisica,0.0
+1180,2024-01-05,Ana Almeida,Livro Python Pratico,Livros,3,79.9,Nordeste,Online,0.1
+1181,2025-01-17,Lucas Lima,Mesa Compacta,Moveis,4,649.9,Sudeste,Online,0.2
+1182,2024-07-14,Lucas Gomes,Webcam HD,Eletronicos,1,179.9,Sudeste,Online,0.05
+1183,2025-10-03,Yasmin Oliveira,Notebook PRO 14,Eletrônicos,1,4200.0,Sudeste,Marketplace,0.1
+1184,2025-12-11,Julia Santos,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.1
+1185,2024-04-15,Kaique Almeida,Headset Gamer,Eletronicos,1,199.9,Sudeste,Online,0.05
+1186,2024-11-09,Eduarda Souza,Planner 2025,Papelaria,5,39.9,Sudeste,Loja Fisica,0.15
+1187,2024-11-01,Isabela Rodrigues,Mouse Sem Fio,Eletronicos,2,89.9,Sul,Loja Fisica,0.1
+1188,2025-09-02,Otavio Lima,Webcam HD,Eletronicos,3,179.9,Sul,Online,0.05
+1189,2025-12-04,Diego Lima,Curso SQL Basico,Cursos,2,129.9,Sudeste,Online,0.1
+1190,2025-01-02,Felipe Costa,Tablet Lite,Eletrônicos,1,1454.9,Sudeste,Online,0.0
+1191,2024-01-20,Gabriela Oliveira,Livro Python Pratico,Livros,1,79.9,Sudeste,Loja Fisica,0.1
+1192,2024-08-04,Yasmin Silva,Headset Gamer,Eletronicos,1,203.9,Nordeste,Marketplace,0.0
+1193,2025-05-31,Eduarda Souza,Planner 2025,Papelaria,3,39.9,Sul,Online,0.0
+1194,2025-12-29,Thiago Silva,Tenis Runner,Moda,1,299.9,Sul,Online,0.05
+1195,2025-10-17,Henrique Almeida,Livro Python Pratico,Livros,2,79.9,Centro-Oeste,Online,0.15
+1196,2024-02-19,Sabrina Silva,Caneca Termica,Casa,3,84.9,Sudeste,Loja Fisica,0.0
+1197,2025-10-31,,Monitor 24,Eletronicos,3,799.9,Sudeste,WhatsApp,0.05
+1198,2025-03-02,Marcos Pereira,Monitor 24,Eletronicos,1,799.9,Sul,Online,0.15
+1199,2025-07-14,Henrique Rodrigues,Monitor 24,Eletronicos,1,799.9,Nordeste,Loja Fisica,0.0
+1200,2024-07-29,William Gomes,Headset Gamer,Eletronicos,1,199.9,Sudeste,Marketplace,0.0
+1201,2024-11-04,Larissa Gomes,Notebook Pro 14,Eletronicos,1,4200.0,Sudeste,Loja Fisica,0.1
+1202,2025-11-09,Otavio Santos,Monitor 24,Eletronicos,1,799.9,Sudeste,Online,0.0
+1203,2025-09-12,William Costa,Caneca Térmica,Casa,3,84.9,Sudeste,Online,0.05
+1204,2024-04-17,Otavio Barbosa,Curso SQL Basico,Cursos,1,132.5,Sudeste,Online,0.0
+1205,2024-04-30,Isabela Souza,Caneca Termica,Casa,3,84.9,Norte,Online,0.1
+1206,2025-05-24,Felipe Ferreira,Monitor 24,Eletronicos,1,799.9,Nordeste,Loja Fisica,0.0
+1207,2024-09-26,Otavio Oliveira,Mesa Compacta,Moveis,1,649.9,Centro-Oeste,Online,0.05
+1208,2025-12-21,Larissa Santos,Tenis Runner,Moda,2,305.9,Sudeste,Online,0.0
+1209,2024-02-10,Paula Rodrigues,Cadeira Office,Moveis,2,872.9,Sudeste,Online,0.05
+1210,2025-12-05,Natalia Lima,Mesa Compacta,Moveis,1,649.9,Sul,WhatsApp,0.05
+1211,2024-01-03,Lucas Gomes,Luminaria LED,Casa,4,69.9,Sudeste,Online,0.05
+1212,2024-04-23,Rafael Gomes,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Loja Fisica,0.0
+1213,2024-06-01,Bruno Almeida,Tablet Lite,Eletronicos,1,1499.9,Sul,Loja Fisica,0.0
+1214,2024-04-13,Henrique Gomes,Teclado Mecanico,Eletronicos,3,249.9,N/A,Online,0.1
+1215,2025-04-12,Isabela Santos,Luminaria LED,Casa,4,67.8,Sul,Loja Fisica,0.05
+1216,2024-02-21,Carla Costa,Smartphone X,Eletronicos,1,2899.9,Sudeste,Loja Fisica,0.05
+1217,2024-10-24,Julia Gomes,Mouse Sem Fio,Eletronicos,3,89.9,Nordeste,Online,0.1
+1218,2025-03-12,Yasmin Souza,Camiseta Dry Fit,Moda,2,49.9,Sudeste,Online,0.0
+1219,2024-02-16,Lucas Costa,Monitor 24,Eletrônicos,2,775.9,Sul,Online,0.15
+1220,2024-12-02,Julia Rodrigues,Cadeira Office,Moveis,3,899.9,Centro-Oeste,Online,0.05
+1221,2024-10-01,Yasmin Souza,Caneca Térmica,Casa,2,84.9,Sul,Online,0.0
+1222,2024-12-16,Eduarda Souza,Tenis Runner,Moda,1,305.9,Sul,Marketplace,0.05
+1223,2025-02-13,Marcos Santos,Livro Python Pratico,Livros,1,79.9,Norte,Online,0.0
+1224,2025-12-07,Natalia Pereira,Livro Python Pratico,Livros,4,79.9,Sudeste,Online,0.05
+1225,2024-04-25,Diego Barbosa,Cadeira Office,Moveis,4,899.9,Sul,Loja Fisica,0.1
+1226,2024-06-12,Carla Pereira,Mouse Sem Fio,Eletronicos,1,87.2,Nordeste,Loja Fisica,0.0
+1227,2025-05-09,Rafael Gomes,Planner 2025,Papelaria,1,39.9,Sudeste,,0.2
+1228,2024-07-04,Sabrina Pereira,Smartphone X,Eletronicos,1,2899.9, Sudeste ,Marketplace,0.2
+1229,2025-09-18,Lucas Gomes,Tenis Runner,Moda,1,299.9,Sul,Online,0.05
+1230,2025/05/09,Natalia Souza,Headset Gamer,Eletronicos,1,199.9,Centro-Oeste,Online,0.1
+1231,2025-03-27,Ana Souza,Curso SQL Basico,Cursos,1,126.0,Sul,Online,0.05
+1232,2025-11-01,Joao Silva,Garrafa Termica,Casa,4,61.1,Sudeste,Marketplace,0.05
+1233,2025-08-13,Yasmin Ferreira,Webcam HD,Eletronicos,2,179.9,Sul,Loja Fisica,0.0
+1234,2025-11-16,Joao Almeida,Luminaria LED,Casa,1,67.8,Sudeste,Loja Fisica,
+1235,2025-12-05,William Ferreira,Webcam HD,Eletronicos,1,179.9,Sudeste,WhatsApp,0.0
+1236,2025-03-19,Vanessa Barbosa,Monitor 24,Cursos,2,7999.0,Sudeste,Online,0.0
+1237,2025-05-08,Julia Gomes,Luminaria LED,Casa,4,69.9,Nordeste,Online,0.0
+1238,2024-06-01,Paula Ferreira,Livro Python Pratico,Livros,2,77.5,Nordeste,Online,0.05
+1239,2024-01-12,Thiago Costa,Mouse Sem Fio,Eletronicos,5,89.9,Sudeste,Marketplace,0.15
+1240,2025/04/25,Natalia Costa,Webcam HD,Eletronicos,1,179.9,Sudeste,Marketplace,0.1
+1241,2025-05-18,Joao Oliveira,Teclado Mecânico,Eletronicos,1,249.9,Sul,Loja Fisica,0.2
+1242,2024-10-11,Ana Almeida,Camiseta Dry Fit,Moda,1,50.9,Sudeste,Online,0.0
+1243,2025-07-17,THIAGO PEREIRA,Luminaria LED,Casa,1,69.9,Sul,Online,0.15
+1244,2024-08-28,Bruno Rodrigues,Livro Python Pratico,Livros,3,79.9,Sul,Online,0.0
+1245,2025-08-09,Marcos Souza,Smartphone X,Eletronicos,2,2899.9,Sul,Online,0.05
+1246,2025-04-02,Joao Souza,Tablet Lite,Eletronicos,2,1499.9,Sul,Online,0.05
+1247,2025-10-31,Lucas Souza,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Online,0.0
+1248,2025-02-26,Ana Almeida,Livro Python Pratico,Livros,1,79.9,Sudeste,Online,0.1
+1249,2024-01-01,Bruno Ferreira,SSD 1TB,Eletronicos,1,459.9,Norte,Marketplace,0.2
+1250,2025-10-14,Isabela Almeida,Caneca Termica,Casa,1,84.9,Sudeste,Online,0.0
+1251,2024-07-30,Thiago Gomes,SSD 1TB,Eletronicos,1,446.1,Sudeste,Online,0.05
+1252,2024-12-15,Julia Silva,Smartphone X,Eletronicos,1,2899.9,Sul,Online,0.1
+1253,2025-04-10,Joao Almeida,Luminaria LED,Casa,1,69.9,Sudeste,Loja Física,0.15
+1254,2025-09-06,Natalia Barbosa,Caneca Termica,Casa,1,82.35,Sudeste,Online,0.05
+1255,2025-04-08,Carla Souza,Tenis Runner,Moda,1,299.9,Sudeste,Online,0.0
+1256,2024-01-03,Joao Lima,Luminaria LED,Casa,3,69.9,Sudeste,Online,0.0
+1257,2025-07-14,Otavio Lima,Mochila Executiva,Acessorios,4,159.9,Sudeste,Loja Fisica,0.05
+1258,2024-02-16,Eduarda Rodrigues,,Eletronicos,2,799.9,Sudeste,Online,0.0
+1259,2025-02-23,Carla Santos,Headset Gamer,Eletronicos,4,199.9,Centro-Oeste,Marketplace,0.1
+1260,2024-07-19,Felipe Souza,Caneca Termica,Casa,1,84.9,Sudeste,Online,0.0
+1261,2024-08-08,Marcos Oliveira,Livro Python Pratico,Livros,2,79.9,Nordeste,Online,0.05
+1262,2024-04-20,Larissa Silva,Camiseta Dry Fit,Moda,0,49.9,Sul,Loja Fisica,0.05
+1263,2024-05-06,Marcos Rodrigues,Planner 2025,Papelaria,1,39.9,Sudeste,Loja Física,0.05
+1264,2025-05-31,Diego Rodrigues,Planner 2025,Papelaria,3,39.9,Nordeste,Online,0.1
+1265,2025-06-27,Yasmin Silva,Notebook Pro 14,Eletronicos,1,4200.0,Sul,Online,0.0
+1266,2025-03-19,Rafael Rodrigues,SSD 1TB,Eletrônicos,3,459.9,Sudeste,Marketplace,0.0
+1267,2024-06-30,William Ferreira,Webcam HD,Eletronicos,1,179.9,Nordeste,Online,0.0
+1268,2024-05-11,Carla Pereira,Cadeira office,Móveis,1,899.9,Nordeste,Online,0.05
+1269,2025-09-12,Joao Almeida,Caneca Termica,Casa,4,84.9,Sul,Marketplace,0.0
+1270,2025-03-04,Sabrina Barbosa,Livro Python Pratico,Livros,1,79.9,Nordeste,Online,0.1
+1271,2024-10-07,Kaique Lima,Luminaria LED,Casa,1,69.9,Nordeste,Marketplace,0.05
+1272,2025-04-08,,Mochila Executiva,Acessorios,1,159.9,Sudeste,Loja Fisica,0.0
+1273,2025-09-08,William Barbosa,Curso SQL Basico,Cursos,1,129.9,Sudeste,,0.0
+1274,2024-11-02,William Almeida,Webcam HD,Eletronicos,1,179.9,Norte,Marketplace,0.0
+1275,2025-12-29,Yasmin Almeida,Camiseta Dry Fit,Moda,3,49.9,Sudeste,Loja Fisica,0.0
+1276,2024-07-24,Felipe Ferreira,Mesa Compacta,Moveis,1,649.9,Sudeste,Loja Fisica,0.0
+1277,2025-12-04,Julia Gomes,Mochila Executiva,Acessorios,1,159.9,Sul,WhatsApp,0.05
+1278,2025-12-28,Thiago Costa,Headset Gamer,Eletronicos,3,199.9,Nordeste,Online,0.1
+1279,2025-07-09,William Gomes,Webcam HD,Eletronicos,3,179.9,Sudeste,Online,0.0
+1280,2025-12-28,Carla Lima,Camiseta Dry Fit,Moda,4,49.9,Norte,Marketplace,0.0
+1281,2025-05-06,Rafael Ferreira,SSD 1TB,Eletronicos,1,459.9,Centro-Oeste,Online,0.2
+1282,2025-11-21,Yasmin Almeida,Curso SQL Basico,Cursos,1,129.9,Nordeste,WhatsApp,0.0
+1283,2025-03-08,Lucas Almeida,mochila executiva,Acessorios,1,159.9,Sul,Online,0.0
+1284,2024-01-26,Kaique Costa,Monitor 24,Eletronicos,1,799.9,Nordeste,Loja Fisica,0.15
+1285,2025-11-17,Ana Oliveira,Mouse Sem Fio,Eletronicos,4,89.9,Norte,WhatsApp,0.0
+1286,2024-06-13,Isabela Gomes,Garrafa Termica,Casa,2,59.9,Nordeste,Online,0.0
+1287,2024-05-29,Ana Barbosa,Garrafa Termica,Acessorios,8,59.9,Centro-Oeste,Online,0.0
+1288,2024-07-27,Paula Silva,Mochila Executiva,Acessorios,1,159.9,Sudeste,Marketplace,0.2
+1289,2025-04-08,Carla Ferreira,Tenis Runner,Moda,3,299.9,Centro-Oeste,Online,0.15
+1290,2024-08-17,Yasmin Gomes,SSD 1TB,Eletronicos,1,459.9,Sudeste,Online,0.1
+1291,2025-02-02,Gabriela Almeida,SSD 1TB,Eletronicos,5,459.9,Norte,Online,0.05
+1292,2025-12-10,Vanessa Silva,Mochila Executiva,Acessorios,1,159.9,Sudeste,Marketplace,0.2
+1293,2025-01-31,Larissa Gomes,Livro Python Pratico,Livros,3,79.9,Sudeste,Marketplace,0.0
+1294,2025-07-19,Ana Silva,Camiseta Dry Fit,Moda,3,49.9,Centro-Oeste,WhatsApp,0.0
+1295,2024-07-26,Sabrina Rodrigues,Garrafa Termica,Casa,1,59.9,Nordeste,Online,0.05
+1296,2025-10-10,William Barbosa,Luminaria LED,Casa,2,69.9,Sudeste,Online,0.0
+1297,2025-08-25,Paula Barbosa,Tenis Runner,Moda,2,299.9,Norte,Online,0.1
+1298,2024-07-20,Yasmin Oliveira,Caneca Térmica,Casa,1,84.9,Sul,Marketplace,0.1
+1299,2025-04-04,Eduarda Gomes,Mochila Executiva,Acessorios,1,159.9,Sul,WhatsApp,0.0
+1300,2024-07-10,Eduarda Barbosa,Teclado Mecanico,Eletronicos,1,249.9,Nordeste,Loja Fisica,0.0
+1301,2024-05-02,Kaique Silva,Webcam HD,Eletronicos,1,179.9,Sudeste,Marketplace,0.15
+1302,2024-10-12,Paula Santos,Curso SQL Basico,Cursos,1,129.9,Sudeste,Online,0.2
+1303,2024-06-13,Rafael Santos,Headset Gamer,Eletronicos,1,199.9,Nordeste,Online,0.15
+1304,2024-12-04,Marcos Barbosa,Notebook Pro 14,Eletronicos,1,4200.0,Sudeste,Loja Fisica,0.0
+1305,2024-02-10,Diego Lima,Headset Gamer,Eletronicos,4,199.9,Sul,Marketplace,0.0
+1306,2024-02-22,THIAGO FERREIRA,Caneca Térmica,Casa,2,84.9,Sul,Loja Fisica,0.0
+1307,2025-05-17,Rafael Almeida,Mochila Executiva,Acessorios,4,159.9,Norte,Loja Fisica,0.0
+1308,2024-03-15,William Lima,Tenis Runner,Acessorios,1,299.9,Sudeste,WhatsApp,0.05
+1309,2024-08-13,Eduarda Almeida,Webcam HD,Eletronicos,2,179.9,Centro-Oeste,Marketplace,0.0
+1310,2025-06-01,Eduarda Pereira,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Online,0.1
+1311,2025-07-03,Kaique Souza,SSD 1TB,Eletronicos,1,459.9,Sudeste,WhatsApp,0.2
+1312,2024-08-14,Felipe Gomes,Tenis Runner,Moda,1,299.9,Nordeste,Loja Fisica,0.05
+1313,2024-12-05,Julia Santos,Camiseta Dry Fit,Moda,2,48.4,Sudeste,Marketplace,0.1
+1314,2025-09-25,Otavio Rodrigues,Mesa Compacta,Móveis,1,630.4,Sudeste,Online,0.0
+1315,2025-10-26,Lucas Souza,SSD 1TB,Eletronicos,2,459.9,Centro-Oeste,Online,0.0
+1316,2025-04-01,Gabriela Gomes,Tenis Runner,Moda,3,299.9,Sudeste,Online,0.2
+1317,2025-09-28,Gabriela Silva,Caneca Termica,Casa,2,84.9,Nordeste,Online,0.15
+1318,2025-01-25,,Camiseta Dry Fit,Moda,6,49.9,Norte,Online,0.05
+1319,2025-07-07,Yasmin Santos,Garrafa Termica,Casa,2,59.9,Sudeste,Loja Fisica,0.05
+1320,2025-06-13,Julia Almeida,Notebook Pro 14,Eletronicos,1,4200.0,Sudeste,Online,0.2
+1321,2025-04-01,Natalia Silva,Webcam HD,Eletronicos,1,179.9,Sudeste,Loja Fisica,0.0
+1322,2025-10-29,Felipe Lima,mochila executiva,Acessorios,3,159.9,Sudeste,Online,0.05
+1323,2024-03-25,Carla Costa,Webcam HD,Eletronicos,1,179.9,Nordeste,Marketplace,0.0
+1324,2025-06-30,Lucas Gomes,SSD 1TB,Eletronicos,1,459.9,Sudeste,Online,0.1
+1325,2024-08-03,Vanessa Gomes,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Loja Fisica,0.2
+1326,2025-12-02,Larissa Souza,Mesa Compacta,Moveis,1,649.9,Sul,Loja Fisica,0.0
+1327,2025-07-04,William Barbosa,Mesa Compacta,Moveis,3,649.9,Sudeste,Loja Fisica,0.05
+1328,2025-10-24,Bruno Barbosa,Curso SQL Basico,Cursos,2,129.9,Norte,Online,0.05
+1329,2024-01-25,Marcos Barbosa,Headset Gamer,Eletrônicos,2,199.9,Sul,Marketplace,0.0
+1330,2024-02-08,Bruno Souza,Camiseta Dry Fit,Moda,6,49.9,Sul,Marketplace,0.0
+1331,2024-07-01,Henrique Almeida,Mouse Sem Fio,Eletronicos,1,89.9,Norte,WhatsApp,0.0
+1332,2025-08-11,Gabriela Santos,Teclado Mecanico,Eletronicos,1,249.9,Sul,Loja Fisica,0.1
+1333,2025-02-01,Marcos Gomes,Curso SQL Basico,Cursos,1,129.9,Sudeste,Online,0.0
+1334,2025-03-19,Joao Silva,Livro Python Pratico,Livros,-1,77.5,Sudeste,Online,0.05
+1335,2025-11-20,Carla Almeida,Livro Python Pratico,Livros,1,79.9,Nordeste,Online,0.1
+1336,2025-10-18,Yasmin Ferreira,,Eletronicos,1,4074.0,Sudeste,Marketplace,0.0
+1337,2025-08-22,Ana Barbosa,Teclado Mecanico,Eletronicos,1,254.9,,Loja Fisica,0.1
+1338,2025-01-01,Otavio Souza,Teclado Mecanico,Eletronicos,2,254.9,Sudeste,Loja Fisica,0.0
+1339,2025-12-03,Isabela Ferreira,Mochila Executiva,Acessorios,1,159.9,Nordeste,Loja Fisica,
+1340,2024-10-15,Marcos Pereira,Teclado Mecanico,Eletronicos,2,249.9,,Marketplace,0.0
+1341,2025-11-07,Lucas Rodrigues,Livro Python Pratico,Livros,1,79.9,Sudeste,Marketplace,0.0
+1342,2025-06-30,Gabriela Costa,Cadeira Office,Móveis,1,872.9,Sul,Online,0.1
+1343,2025-07-12,Isabela Gomes,Livro Python Pratico,Livros,1,79.9,Sudeste,,0.05
+1344,2024-11-01,Vanessa Barbosa,Headset Gamer,Eletronicos,1,199.9,Sudeste,Online,0.1
+1345,2024-01-12,Paula Almeida,Tenis Runner,Moda,3,299.9,Sul,WhatsApp,0.05
+1346,2024-05-06,Ana Silva,Headset Gamer,Eletronicos,2,199.9,Nordeste,Loja Fisica,0.0
+1347,2025-09-02,Kaique Almeida,Planner 2025,Papelaria,1,38.7,Sudeste,Online,0.05
+1348,2024-03-28,Isabela Oliveira,SSD 1TB,Eletronicos,1,459.9,Nordeste,Loja Fisica,0.05
+1349,2024-08-04,Larissa Gomes,Tenis Runner,Moda,2,299.9,Centro-Oeste,Marketplace,0.0
+1350,2024-05-25,Eduarda Costa,Webcam HD,Eletronicos,2,179.9,Norte,Loja Fisica,0.05
+1351,2025-09-23,Henrique Oliveira,Luminaria LED,Casa,1,69.9,Nordeste,WhatsApp,0.1
+1352,2024-07-04,Vanessa Ferreira,Monitor 24,Eletronicos,1,799.9,Sudeste,Marketplace,0.0
+1353,2025-07-16,Marcos Gomes,Mouse Sem Fio,Eletronicos,1,89.9,Nordeste,WhatsApp,0.05
+1354,2024-03-15,Isabela Gomes,SSD 1TB,Eletronicos,1,459.9,Norte,Online,0.15
+1355,2024-09-13,Carla Oliveira,Teclado Mecanico,Eletronicos,2,249.9,Sul,Online,0.0
+1356,2025-05-13,JOAO LIMA,Planner 2025,Livros,5,39.9,Norte,Loja Física,0.05
+1357,2025-11-18,Thiago Oliveira,Headset Gamer,Eletronicos,1,199.9,Sudeste,Marketplace,0.0
+1358,2024-10-18,Sabrina Souza,Monitor 24,Eletronicos,1,799.9,Centro-Oeste,Online,0.2
+1359,2024-11-21,Natalia Rodrigues,Mesa Compacta,Moveis,1,649.9,Sudeste,Online,0.05
+1360,2025-09-23,Vanessa Santos,Camiseta Dry Fit,Moda,3,49.9,Sudeste,Online,0.2
+1361,2024-06-05,Rafael Ferreira,Planner 2025,Papelaria,2,39.9,Sul,Loja Fisica,0.1
+1362,2024-11-19,Larissa Costa,Tenis Runner,Moda,1,305.9,Sudeste,Marketplace,0.0
+1363,2024-11-16,Gabriela Oliveira,Notebook Pro 14,Eletronicos,3,4200.0,Centro-Oeste,Marketplace,0.05
+1364,2024-10-10,Julia Costa,Curso SQL Basico,Cursos,1,129.9,Sudeste,Loja Fisica,0.0
+1365,2025-05-06,Marcos Rodrigues,Camiseta Dry Fit,Moda,4,49.9,Norte,Marketplace,0.05
+1366,2024-11-08,Natalia Almeida,Tenis Runner,Moda,1,299.9,Sudeste,Marketplace,0.0
+1367,2024-06-28,Thiago Ferreira,Monitor 24,Eletronicos,1,799.9,Sudeste,WhatsApp,0.25
+1368,2024-10-14,Diego Almeida,Teclado Mecanico,Eletronicos,1,249.9,Nordeste,Online,0.1
+1369,2024-09-26,Yasmin Gomes,Mesa Compacta,Moveis,1,649.9,Sul,Loja Fisica,0.0
+1370,2024-03-18,Lucas Almeida,Teclado Mecanico,Eletronicos,2,249.9,Sudeste,Loja Fisica,0.05
+1371,2025-08-18,Rafael Pereira,Notebook Pro 14,Eletronicos,2,4200.0,Sudeste,Online,0.1
+1372,2024-08-05,Ana Almeida,Planner 2025,Papelaria,2,39.9,Nordeste,Loja Fisica,0.0
+1373,2025-07-10,Paula Rodrigues,Garrafa Termica,Casa,2,59.9,Sudeste,Online,0.1
+1374,2025-01-09,Kaique Oliveira,Headset Gamer,Eletronicos,1,199.9,Centro-Oeste,Loja Fisica,0.0
+1375,2024-10-24,Diego Rodrigues,Planner 2025,Papelaria,4,39.9,Sul,Marketplace,0.2
+1376,2025-06-06,Bruno Pereira,Webcam HD,Eletronicos,1,179.9,Centro-Oeste,,0.2
+1377,2025-05-29,Lucas Gomes,Tenis Runner,Moda,1,299.9,Sul,Online,0.0
+1378,2025-09-20,Vanessa Costa,Luminaria LED,Casa,1,69.9,Sudeste,Online,0.05
+1379,2024-05-23,Marcos Costa,Webcam HD,Eletronicos,3,179.9,Sudeste,Online,0.1
+1380,2025-08-02,Rafael Gomes,Cadeira Office,Moveis,1,899.9,Sudeste,Online,0.0
+1381,2025-05-10,Julia Silva,Headset Gamer,Eletronicos,3,199.9,Nordeste,Marketplace,0.15
+1382,2025-05-14,Gabriela Souza,Luminaria LED,Casa,1,67.8,Sul,Online,0.05
+1383,2025-01-13,Gabriela Silva,Garrafa Termica,Casa,4,59.9,Sudeste,Online,0.0
+1384,2025-06-14,Julia Pereira,Mesa Compacta,Moveis,1,649.9,Sul,Online,0.0
+1385,2025-04-10,Ana Silva,Tablet Lite,Eletrônicos,1,1499.9,Sudeste,Online,0.2
+1386,2024-04-15,William Almeida,Camiseta Dry Fit,Moda,2,49.9,Sul,Online,0.0
+1387,2024-09-26,Rafael Almeida,Garrafa Termica,Casa,3,59.9,Norte,Online,0.05
+1388,2024-06-27,Kaique Gomes,Planner 2025,Papelaria,3,39.9,Centro-Oeste,WhatsApp,0.15
+1389,2025-01-09,Rafael Gomes,Livro Python Pratico,Livros,1,81.5,Nordeste,Loja Fisica,0.0
+1390,2025-06-13,Henrique Pereira,Teclado Mecanico,Eletronicos,1,249.9,Sudeste,Online,0.05
+1391,2025-06-12,Kaique Lima,Luminaria LED,Casa,1,69.9,Centro-Oeste,Marketplace,0.0
+1392,2025-05-13,Natalia Ferreira,Tenis Runner,Moda,2,305.9,Centro-Oeste,Marketplace,0.0
+1393,2025-05-28,Diego Rodrigues,Notebook Pro 14,Eletronicos,1,4284.0,Centro-Oeste,Online,0.0
+1394,2024-08-23,Bruno Almeida,Cadeira Office,Moveis,1,899.9,Sudeste,Online,0.2
+1395,2024-08-04,Diego Costa,Garrafa Termica,Casa,3,59.9,Sudeste,Online,0.0
+1396,2025-01-05,Sabrina Barbosa,Cadeira Office,Moveis,2,899.9,Nordeste,Loja Fisica,0.0
+1397,2025-11-07,Gabriela Pereira,Monitor 24,Eletronicos,4,775.9,Sudeste,Online,0.0
+1398,2024-04-26,Natalia Gomes,Camiseta Dry Fit,Moda,4,49.9,Sudeste,WhatsApp,0.0
+1399,2025-05-05,Felipe Ferreira,Tablet Lite,Eletronicos,1,1499.9,Sudeste,Online,0.05
+1400,2025-10-24,Larissa Silva,Cadeira Office,Moveis,2,899.9,N/A,Online,0.0
+1373,2025-07-10,Paula Rodrigues,Garrafa Termica,Casa,2,59.9,Sudeste,Online,0.1
+857,2025-09-21,Rafael Souza,Mochila Executiva,Acessorios,1,159.9,Sudeste,Loja Física,0.0
+108,2024-06-14,Yasmin Rodrigues,Garrafa Termica,Casa,4,59.9,Nordeste,Online,0.0
+609,2025-09-19,Joao Costa,Camiseta Dry Fit,Moda,5,49.9,Sudeste,Online,0.0
+27,2024-10-01,Bruno Oliveira,Livro Python Pratico,Livros,4,79.9,Centro-Oeste,Loja Fisica,0.1
+712,2024-08-14,Larissa Santos,Webcam HD,Eletronicos,1,179.9,Sul,Online,0.0
+444,2025-04-07,Ana Silva,Smartphone X,Eletronicos,1,2899.9,Centro-Oeste,Online,0.0
+80,2024-07-13,Isabela Oliveira,Headset Gamer,Eletronicos,3,-203.9,Nordeste,Online,0.2
+278,2024-08-18,Carla Rodrigues,Teclado Mecanico,Eletronicos,2,249.9,Sudeste,Loja Fisica,0.15
+138,2025-07-21,Diego Oliveira,Mochila Executiva,Acessorios,4,159.9,Nordeste,Loja Fisica,0.2
+1398,2024-04-26,Natalia Gomes,Camiseta Dry Fit,Moda,4,49.9,Sudeste,WhatsApp,0.0
+663,2025-02-14,Vanessa Souza,Teclado Mecanico,Eletronicos,2,249.9,Nordeste,Online,0.1
+412,2025-06-08,Carla Lima,Mesa Compacta,Moveis,1,649.9,Sul,Online,0.0
+1039,2024-01-21,Otavio Rodrigues,Luminaria LED,Casa,2,69.9,Sudeste,Online,0.0
+577,2025-10-19,Isabela Rodrigues,Mochila Executiva,Acessorios,1,159.9,Centro-Oeste,Online,0.05
+930,2025-09-14,Isabela Barbosa,Caneca Termica,Casa,4,84.9,Sudeste,Loja Fisica,0.0
+827,2025-07-30,Thiago Gomes,Mouse Sem Fio,Eletronicos,1,87.2,Sudeste,Loja Fisica,0.0
+72,2024-03-18,Marcos Almeida,Luminaria LED,Casa,1,69.9,Norte,Online,0.0
+485,2024-05-07,Isabela Souza,Webcam HD,Eletronicos,2,179.9,Centro-Oeste,Online,0.1
+378,2025-12-30,Joao Pereira,SSD 1TB,Eletronicos,1,446.1,Sudeste,Online,0.0
