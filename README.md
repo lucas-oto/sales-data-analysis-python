@@ -79,7 +79,11 @@ O projeto inclui:
 * Faturamento por Região
 
 ---
+## Exemplos Visuais
 
+![Faturamento por Categoria](graficos/faturamento_categoria.png)
+
+---
 ## Principais Insights
 
 * A categoria de eletrônicos liderou o faturamento total.
