@@ -81,7 +81,7 @@ O projeto inclui:
 ---
 ## Exemplos Visuais
 
-![Faturamento por Categoria](graficos/faturamento_categoria.png)
+![Faturamento por Categoria](graficos/receita_mensal.png)
 
 ---
 ## Principais Insights
